@@ -2,7 +2,10 @@
 content_type: page
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 title: Prof. Janet Conrad's Insights
 uid: a271826a-30de-6238-1cf3-804c767a9385

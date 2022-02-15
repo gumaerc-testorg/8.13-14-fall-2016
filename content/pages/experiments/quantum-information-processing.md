@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Quantum Information Processing with NMR
 uid: 4ab3ef87-903c-8a86-69f4-79e16a8a8e13

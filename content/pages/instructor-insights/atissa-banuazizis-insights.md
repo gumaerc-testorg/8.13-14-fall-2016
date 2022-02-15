@@ -2,7 +2,10 @@
 content_type: page
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 title: Atissa Banuazizi's Insights
 uid: 411e7f05-35f9-06f4-add2-ac09d12f03ec

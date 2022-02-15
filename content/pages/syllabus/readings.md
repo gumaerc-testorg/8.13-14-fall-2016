@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Required and Recommended Texts
 uid: 2fe61734-9df6-5bf3-7a9c-ca6e1b5f4bd9
@@ -33,7 +36,7 @@ Preston, Daryl, and Eric Dietz. _The Art of Experimental Physics_. New York, NY:
 
 Taylor, John Robert. _An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements_. Sausalito, CA: University Science Books, 1997. ISBN: 9780935702750. (This book covers much of the same material as Bevington and Robinson and is easier to read.)
 
-Gregory, Philip Christopher. _Bayesian Logical Data Analysis for the Physical Sciences: A Comparative Approach with Mathematica® Support_. Cambridge, UK: Cambridge University Press, 2006. ISBN: 9780521841504.
+Gregory, Philip Christopher. _Bayesian Logical Data Analysis for the Physical Sciences: A Comparative Approach with Mathematica{{< sup "®" >}} Support_. Cambridge, UK: Cambridge University Press, 2006. ISBN: 9780521841504.
 
 Reference Articles and Equipment Manuals
 ----------------------------------------

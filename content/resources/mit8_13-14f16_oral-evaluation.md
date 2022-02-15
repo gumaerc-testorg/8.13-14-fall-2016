@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/1dd662260854b440912958027ff73fe2_MIT8_13-14F16_oral-evaluation.pdf
+file: /media/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/1dd662260854b440912958027ff73fe2_MIT8_13-14F16_oral-evaluation.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Written and Oral Report and Presentation Resources
+parent_type: CourseSection
 resourcetype: Document
 title: 8.13-14 F16-S17 Oral Exam Grade Sheet
 uid: 1dd66226-0854-b440-9129-58027ff73fe2

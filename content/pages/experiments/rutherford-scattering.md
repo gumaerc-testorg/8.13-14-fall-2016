@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Rutherford Scattering
 uid: 6a6e6e85-05a9-4bba-fea7-59a058529e6e

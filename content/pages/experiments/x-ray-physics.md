@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: X-Ray Physics
 uid: 49f2e6e7-74c8-6a6f-4e5a-f744e6c5818f

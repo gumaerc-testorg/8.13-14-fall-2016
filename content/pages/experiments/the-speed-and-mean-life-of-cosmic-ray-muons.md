@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: The Speed and Mean Life of Cosmic-Ray Muons
 uid: 33e90d1d-1125-2307-13a9-67e1abd752dd

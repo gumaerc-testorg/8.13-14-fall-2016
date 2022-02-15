@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Optical Emission Spectra of Hydrogenic Atoms
 uid: b48d711e-6977-c6b6-a6c9-04ad05b71041

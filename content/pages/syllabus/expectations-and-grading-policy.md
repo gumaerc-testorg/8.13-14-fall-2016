@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Expectations and Grading Policy
 uid: 2820c983-4125-9d82-58a7-3d23a77dc986

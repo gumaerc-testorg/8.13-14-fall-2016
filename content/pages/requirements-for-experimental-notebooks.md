@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Requirements for Experimental Notebooks
 uid: b6c21d9d-b22c-72ff-13a3-232d88222fa2
 ---

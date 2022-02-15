@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Superconductivity
 uid: 88cf3df1-af6e-bbee-2d0c-2dbad78e0b62
@@ -35,7 +38,7 @@ Crowe, J. W. "[Trapped-Flux Superconducting Memory](https://ieeexplore.ieee.org/
 
 Cooper, Leon N. "Theory of Superconductivity." _American Journal of Physics_ 28, no. 2 (February 1960): 91-101.
 
-Knuzler, J. E., E. Buehler, F. S. L. Hsu, and J. H. Wernick. "Superconductivity in Nb3Sn at High Current Density in a Magnetic Field of 88 kgauss." _The Physical Review Letters_ 6, no.3 (1961): 89-91.
+Knuzler, J. E., E. Buehler, F. S. L. Hsu, and J. H. Wernick. "Superconductivity in Nb{{< sub "3" >}}Sn at High Current Density in a Magnetic Field of 88 kgauss." _The Physical Review Letters_ 6, no.3 (1961): 89-91.
 
 Landau, Lev Davidovic. "[Nobel Prize](https://www.nobelprize.org/nobel_prizes/physics/laureates/1962/)." (1962). (For his pioneering theories for condensed matter, especially liquid helium.)
 
@@ -67,7 +70,7 @@ Schrieffer, J. R. "[Macroscopic Quantum Phenomena from Pairing in Superconductor
 
 Tinkham, Michael. _Introduction to Superconductivity_. New York, NY: McGraw-Hill, 1975, 151 pages. ISBN: 9780070648777.
 
-Bednorz, Johannes Georg, and Karl Alexander Müller. "[Possible High Tc Superconductivity in the Ba-La-Cu-O System](https://link.springer.com/article/10.1007%2FBF01303701)." _Condensed Matter, Zeitschrift Für Physik B._ 64, no. 2 (1986) 189-193.
+Bednorz, Johannes Georg, and Karl Alexander Müller. "[Possible High T{{< sub "c" >}} Superconductivity in the Ba-La-Cu-O System](https://link.springer.com/article/10.1007%2FBF01303701)." _Condensed Matter, Zeitschrift Für Physik B._ 64, no. 2 (1986) 189-193.
 
 Josephson Effects References
 ----------------------------
