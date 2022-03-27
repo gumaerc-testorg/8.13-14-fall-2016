@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: "M\xF6ssbauer Spectroscopy"
 parent_type: CourseSection
+parent_uid: f93c78b6-ced8-d63a-326f-cce14d6b843d
 resourcetype: Document
 title: "M\xF6ssbauer Spectroscopy Schematic"
 uid: 74ebd694-6959-9188-9c03-39f1f326e1cb

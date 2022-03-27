@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Quantum Information Processing with NMR
 parent_type: CourseSection
+parent_uid: 4ab3ef87-903c-8a86-69f4-79e16a8a8e13
 resourcetype: Image
 title: JLExp_49.jpg
 uid: 81ade4b5-340f-eb9b-6223-d8bbabf93aec

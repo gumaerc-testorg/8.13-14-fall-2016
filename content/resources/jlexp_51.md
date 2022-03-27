@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Optical Trapping
 parent_type: CourseSection
+parent_uid: 67f35334-98bb-7b1a-b663-008618c3daa2
 resourcetype: Image
 title: JLExp_51.jpg
 uid: 887fbab5-80cb-d95a-a8ab-066b9df8f0e2

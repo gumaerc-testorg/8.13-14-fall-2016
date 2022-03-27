@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Schedule Summaries
 parent_type: CourseSection
+parent_uid: f1df09ba-8695-da97-9a12-7711b3ce6675
 resourcetype: Document
 title: The Purpose and Format of Junior Lab Preliminary Experiments
 uid: be71e76a-d233-bd3a-9f06-c36a8aa5f1b5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Michelson Interferometer
 parent_type: CourseSection
+parent_uid: 4bad42bd-ddc0-4bea-2d48-03b97bd58573
 resourcetype: Document
 title: Optical Interferometer
 uid: 7c85fcf2-432f-ca75-c26f-9f78b6c8cb18

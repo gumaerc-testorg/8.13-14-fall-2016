@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Photoelectric Effect
 parent_type: CourseSection
+parent_uid: 012572fc-f382-c70b-fb3f-018c24c0232b
 resourcetype: Image
 title: JLExp_I.jpg
 uid: 6b62510a-6c60-f3ff-0df1-a7beaaebec93

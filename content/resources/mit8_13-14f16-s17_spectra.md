@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Quantum Information Processing with NMR
 parent_type: CourseSection
+parent_uid: 4ab3ef87-903c-8a86-69f4-79e16a8a8e13
 resourcetype: Document
 title: How proton and carbon spectra arise from the density matrix
 uid: df253844-92a2-fdb1-b96e-d9d9baf905d0

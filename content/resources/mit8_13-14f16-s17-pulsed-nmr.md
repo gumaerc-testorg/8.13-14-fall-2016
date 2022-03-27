@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Pulsed Nuclear Magnetic Resonance: Spin Echoes'
 parent_type: CourseSection
+parent_uid: cc00ee06-833e-3831-7fae-8048ce1568e7
 resourcetype: Document
 title: A Polse NMR experiment for an undergraduate physics laboratory
 uid: 2532db08-f3ab-0b71-c0db-e737b14cf4f0

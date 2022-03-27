@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 resourcetype: Image
 title: Conrad-comp.png
 uid: 16ac25a1-c3af-1a9e-0542-d26a5dbc7ca4

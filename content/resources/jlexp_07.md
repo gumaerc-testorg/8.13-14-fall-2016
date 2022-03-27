@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: The Franck-Hertz Experiment
 parent_type: CourseSection
+parent_uid: 4adf3b76-1be8-0bfe-61c0-e48e92d36eb3
 resourcetype: Image
 title: JLExp_07.jpg
 uid: a6d78909-e544-ed00-d10b-14ca333ff8df

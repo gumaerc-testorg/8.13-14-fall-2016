@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Rutherford Scattering
 parent_type: CourseSection
+parent_uid: 6a6e6e85-05a9-4bba-fea7-59a058529e6e
 resourcetype: Image
 title: JLExp_15.jpg
 uid: 3985daea-dc47-3e57-bcf7-499f1f0cc08b

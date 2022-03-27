@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: "M\xF6ssbauer Spectroscopy"
 parent_type: CourseSection
+parent_uid: f93c78b6-ced8-d63a-326f-cce14d6b843d
 resourcetype: Image
 title: JLExp_13.jpg
 uid: 34c703be-02ed-cf4f-d5c4-f3a65d704aff

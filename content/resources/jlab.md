@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 resourcetype: Image
 title: JLab.jpg
 uid: 41a89dcc-9fb2-068b-a2d0-ba89c00b41b8

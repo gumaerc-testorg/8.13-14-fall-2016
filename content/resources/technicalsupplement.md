@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 21-cm Radio Astrophysics
 parent_type: CourseSection
+parent_uid: 39a125da-244b-c933-ce92-e887bb9b9820
 resourcetype: Document
 title: 2017 SRT Student Operator's Manual
 uid: 9ed0e3b4-888b-aeef-9b2d-a643318c8856

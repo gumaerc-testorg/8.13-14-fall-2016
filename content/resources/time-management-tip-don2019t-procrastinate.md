@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Time Management Tip: Don\u2019t Procrastinate!"
 uid: 9f1c6573-5b11-e085-5a89-f76c11f3ae05
 video_files:

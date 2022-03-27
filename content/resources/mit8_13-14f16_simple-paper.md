@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Written and Oral Report and Presentation Resources
 parent_type: CourseSection
+parent_uid: 37724ef0-39b0-1ee5-0afa-95aa804d8a20
 resourcetype: Document
 title: A Minimal Example for Junior Lab Reports Using LATEX
 uid: 9fdcd51e-63a4-60ab-9105-8f3f04f0627c

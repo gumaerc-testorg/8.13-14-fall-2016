@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Michelson Interferometer
 parent_type: CourseSection
+parent_uid: 4bad42bd-ddc0-4bea-2d48-03b97bd58573
 resourcetype: Image
 title: LIII.jpg
 uid: b0d96a67-e3bb-0f26-2112-6b03926d06ac

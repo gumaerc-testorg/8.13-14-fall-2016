@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Using the Concept of Metadiscourse to Improve Students\u2019 Oral Presentations"
 uid: 52f10d2c-cd9c-36b4-bcb9-b94f31a23e06
 video_files:

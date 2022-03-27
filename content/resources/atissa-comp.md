@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 resourcetype: Image
 title: Atissa-comp.png
 uid: ae3c1603-dd35-796f-ef2d-5411f56aad98

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Optical Pumping of Rubidium Vapor
 parent_type: CourseSection
+parent_uid: 221808c6-1c60-8ff6-d63c-6012f46f649b
 resourcetype: Image
 title: JLExp_11.jpg
 uid: b7145b1a-3e65-9a4f-7cf9-ca0e4d1c31fa

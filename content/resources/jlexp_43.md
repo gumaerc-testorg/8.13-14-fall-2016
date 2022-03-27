@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Johnson Noise and Shot Noise
 parent_type: CourseSection
+parent_uid: b579e8df-ec61-2cb7-e6a4-dae345aa3b4c
 resourcetype: Image
 title: JLExp_43.jpg
 uid: 1a6a4426-a388-54b8-4cff-d5b8aa9b377a

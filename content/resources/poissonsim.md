@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Poisson Statistics
 parent_type: CourseSection
+parent_uid: 75583187-1f13-d728-f8f4-c79b2c45e23d
 resourcetype: Other
 title: poissonsim.m
 uid: 8dae61be-49e8-b653-4870-129ba19cd691

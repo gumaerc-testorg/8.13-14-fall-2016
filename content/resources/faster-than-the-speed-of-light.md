@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Faster than the Speed of Light: A Future Junior Lab Experiment'
 uid: 087e3e77-fe1a-57cb-7514-bd9240dec4ef
 video_files:

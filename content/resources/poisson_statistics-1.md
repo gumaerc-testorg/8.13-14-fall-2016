@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Poisson Statistics
 parent_type: CourseSection
+parent_uid: 75583187-1f13-d728-f8f4-c79b2c45e23d
 resourcetype: Image
 title: Poisson_statistics.jpg
 uid: 58af6024-4028-ad7e-c4c7-8df5bb38881f

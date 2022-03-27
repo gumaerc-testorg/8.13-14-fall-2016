@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Take this Course, Even if you Want to be a Theoretical Physicist
 uid: 20fffd50-9699-8ac0-578f-22c7b1c8404e
 video_files:

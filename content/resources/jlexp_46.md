@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 21-cm Radio Astrophysics
 parent_type: CourseSection
+parent_uid: 39a125da-244b-c933-ce92-e887bb9b9820
 resourcetype: Image
 title: JLExp_46.jpg
 uid: 459f99df-a583-8145-e7f1-bfe428632385

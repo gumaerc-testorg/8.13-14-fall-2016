@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Raman Spectroscopy
 parent_type: CourseSection
+parent_uid: 4003d308-cc55-7cc5-4925-46f780cfad5f
 resourcetype: Document
 title: MIT8_13-14F16_ramanproposal.pdf
 uid: b551f9e3-b179-d310-5578-f89b51e74354

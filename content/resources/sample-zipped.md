@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Written and Oral Report and Presentation Resources
 parent_type: CourseSection
+parent_uid: 37724ef0-39b0-1ee5-0afa-95aa804d8a20
 resourcetype: Other
 title: sample-zipped.zip
 uid: daf0e93b-e049-15f0-eaba-e37c382ece2c
