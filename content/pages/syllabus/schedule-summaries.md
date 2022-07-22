@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Schedule Summaries
 uid: f1df09ba-8695-da97-9a12-7711b3ce6675

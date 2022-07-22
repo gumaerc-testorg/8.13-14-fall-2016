@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Experiments
 uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 ---

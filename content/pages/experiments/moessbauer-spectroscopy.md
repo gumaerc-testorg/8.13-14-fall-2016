@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: "M\xF6ssbauer Spectroscopy"
 uid: f93c78b6-ced8-d63a-326f-cce14d6b843d
@@ -13,9 +16,9 @@ Description
 
 Mössbauer spectroscopy experiment equipment.
 
-The Mössbauer effect and some of its applications in ultra-high resolution, E/ΔE ~ 1012, gamma-ray spectroscopy are explored. The Zeeman splittings, quadrupole splittings, and chemical shifts of the 14 keV Mössbauer gamma-ray line emitted in the recoilless decay of the first excited state of the 57Fe nucleus are measured in iron and in various iron compounds and alloys.
+The Mössbauer effect and some of its applications in ultra-high resolution, E/ΔE ~ 10{{< sup "12" >}}, gamma-ray spectroscopy are explored. The Zeeman splittings, quadrupole splittings, and chemical shifts of the 14 keV Mössbauer gamma-ray line emitted in the recoilless decay of the first excited state of the {{< sup "57" >}}Fe nucleus are measured in iron and in various iron compounds and alloys.
 
-From the data and knowledge of the magnetic moment of the 57Fe ground state one determines the magnetic moment of the first excited state, and the strengths of the magnetic field at the sites of the iron nuclei in metallic iron, Fe2O3, and Fe3O4 .
+From the data and knowledge of the magnetic moment of the {{< sup "57" >}}Fe ground state one determines the magnetic moment of the first excited state, and the strengths of the magnetic field at the sites of the iron nuclei in metallic iron, Fe{{< sub "2" >}}O{{< sub "3" >}}, and Fe{{< sub "3" >}}O{{< sub "4" >}} .
 
 The natural line widths of the 14 keV transitions are determined from measurements of the absorption line profiles in sodium ferrocyanide absorbers of various thicknesses. Relativistic time dilation is demonstrated by a measurement of the temperature coefficient of the energy of the 14 keV absorption lines in enriched iron.
 

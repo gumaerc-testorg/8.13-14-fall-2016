@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Laboratory Safety and Regulations in Junior Lab
 uid: 29d99fa0-479e-dbce-b118-6e508eb8b5a3
 ---
@@ -75,7 +77,7 @@ Isotope
 Compton Scattering
 {{< tdclose >}}
 {{< tdopen >}}
-137Cs
+{{< sup "137" >}}Cs
 {{< tdclose >}}
 {{< tdopen >}}
 0.4
@@ -87,7 +89,7 @@ Compton Scattering
 Mössbauer Spectroscopy
 {{< tdclose >}}
 {{< tdopen >}}
-57Co
+{{< sup "57" >}}Co
 {{< tdclose >}}
 {{< tdopen >}}
 4
@@ -99,7 +101,7 @@ Mössbauer Spectroscopy
 Rutherford Scattering
 {{< tdclose >}}
 {{< tdopen >}}
-241Am
+{{< sup "241" >}}Am
 {{< tdclose >}}
 {{< tdopen >}}
 0.2
@@ -107,11 +109,11 @@ Rutherford Scattering
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Relativistic Dynamics
 {{< tdclose >}}
 {{< tdopen >}}
-90Sr
+{{< sup "90" >}}Sr
 {{< tdclose >}}
 {{< tdopen >}}
 8
@@ -120,7 +122,7 @@ Relativistic Dynamics
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-133Ba
+{{< sup "133" >}}Ba
 {{< tdclose >}}
 {{< tdopen >}}
 0.08
@@ -128,11 +130,11 @@ Relativistic Dynamics
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 X-Ray Physics
 {{< tdclose >}}
 {{< tdopen >}}
-241Am
+{{< sup "241" >}}Am
 {{< tdclose >}}
 {{< tdopen >}}
 10
@@ -141,7 +143,7 @@ X-Ray Physics
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-55Fe
+{{< sup "55" >}}Fe
 {{< tdclose >}}
 {{< tdopen >}}
 0.7
@@ -150,7 +152,7 @@ X-Ray Physics
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-90Sr
+{{< sup "90" >}}Sr
 {{< tdclose >}}
 {{< tdopen >}}
 0.6
@@ -159,7 +161,7 @@ X-Ray Physics
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-57Co
+{{< sup "57" >}}Co
 {{< tdclose >}}
 {{< tdopen >}}
 0.02
@@ -167,11 +169,11 @@ X-Ray Physics
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 Calibration Sources
 {{< tdclose >}}
 {{< tdopen >}}
-133Ba
+{{< sup "133" >}}Ba
 {{< tdclose >}}
 {{< tdopen >}}
 0.005
@@ -180,7 +182,7 @@ Calibration Sources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-109Cd
+{{< sup "109" >}}Cd
 {{< tdclose >}}
 {{< tdopen >}}
 0.008
@@ -189,7 +191,7 @@ Calibration Sources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-137Cs
+{{< sup "137" >}}Cs
 {{< tdclose >}}
 {{< tdopen >}}
 0.007
@@ -198,7 +200,7 @@ Calibration Sources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-57Co
+{{< sup "57" >}}Co
 {{< tdclose >}}
 {{< tdopen >}}
 0.0001
@@ -207,7 +209,7 @@ Calibration Sources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-60Co
+{{< sup "60" >}}Co
 {{< tdclose >}}
 {{< tdopen >}}
 0.01
@@ -216,7 +218,7 @@ Calibration Sources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-54Mn
+{{< sup "54" >}}Mn
 {{< tdclose >}}
 {{< tdopen >}}
 0.0002
@@ -225,7 +227,7 @@ Calibration Sources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-22Na
+{{< sup "22" >}}Na
 {{< tdclose >}}
 {{< tdopen >}}
 0.01
@@ -248,21 +250,21 @@ As discussed in your training, there are a few simple precautions to be taken fo
 *   Be aware of the sources being used in neighboring experiments. Be aware of neighboring experimenters when using sources.
 *   Remember ALARA — _As Low As Reasonably Achievable_!
 
-Ionizing radiation damages tissue; any exposure should therefore be minimized. The unit of radiation exposure is the rem (roentgen equivalent man). For an average individual, the background dosage from cosmic rays and other environmental sources is about 360 mrem/year, which works out to 4.2x10\-2 mrem/hour. The recommended limit to controllable exposure for a member of the general public is 100 mrem/year, averaged over any consecutive five years. If you follow the Junior Lab guidelines, your exposure will be only a fraction of the dose you receive from the natural background. A survey meter is available for you to check radiation levels yourself.
+Ionizing radiation damages tissue; any exposure should therefore be minimized. The unit of radiation exposure is the rem (roentgen equivalent man). For an average individual, the background dosage from cosmic rays and other environmental sources is about 360 mrem/year, which works out to 4.2x10{{< sup "\\-2" >}} mrem/hour. The recommended limit to controllable exposure for a member of the general public is 100 mrem/year, averaged over any consecutive five years. If you follow the Junior Lab guidelines, your exposure will be only a fraction of the dose you receive from the natural background. A survey meter is available for you to check radiation levels yourself.
 
-Radioactive sources emit three types of radiation: high energy helium nuclei (alpha rays), electrons (beta rays), or photons (gamma rays). Most of the sources in Junior Lab emit only gamma radiation. Of the sources which do emit alpha or beta particles, most are enclosed in plastic or metals, which prevent particulate radiation from escaping. The exceptions are the 90Sr source in the ‘Relativistic Dynamics’ experiment and the 241Am source in the ‘Rutherford Scattering’ experiment; both sources are in an enclosed apparatus. These sources should never be handled. Handling of open alpha- or beta-emitters can result in contamination or dangerous dosages to the skin.
+Radioactive sources emit three types of radiation: high energy helium nuclei (alpha rays), electrons (beta rays), or photons (gamma rays). Most of the sources in Junior Lab emit only gamma radiation. Of the sources which do emit alpha or beta particles, most are enclosed in plastic or metals, which prevent particulate radiation from escaping. The exceptions are the {{< sup "90" >}}Sr source in the ‘Relativistic Dynamics’ experiment and the {{< sup "241" >}}Am source in the ‘Rutherford Scattering’ experiment; both sources are in an enclosed apparatus. These sources should never be handled. Handling of open alpha- or beta-emitters can result in contamination or dangerous dosages to the skin.
 
 Radiation is quantified is several different ways:
 
-*   The quantity of a radioactive material in a source — called its “activity” — is measured in curies (Ci). A one-curie source has an activity of 3.7x1010 disintegrations per second. The curie is an extraordinarily large unit: millicuries and microcuries are more common in laboratory usage.
+*   The quantity of a radioactive material in a source — called its “activity” — is measured in curies (Ci). A one-curie source has an activity of 3.7x10{{< sup "10" >}} disintegrations per second. The curie is an extraordinarily large unit: millicuries and microcuries are more common in laboratory usage.
 *   The “absorbed dose” is a quantity that measures the total energy absorbed per unit mass; it is measured in rads, where 1 rad = 100 erg/g.
 *   The “equivalent dose” is measured in the units discussed above, the rem. The equivalent dose is derived from the absorbed dose by multiplying by a “radiation weighting factor” which is a measure of how damaging a particular type of radiation is to biological tissue. For photons (gamma rays) and electrons and positrons (beta particles), the radiation weighting factor is unity; for helium nuclei (alpha particles), it is 20; for protons with energy greater than 2 MeV it is 5; and for neutrons it ranges from 5 to 20, depending on the energy.
 
 When you use the survey meter in the lab, the readings are in rads, and you must consider the type of particle when you work out the equivalent dose.
 
-For gamma rays with energy greater than 1 MeV, a useful approximation is that the equivalent dose due to a source with an activity of _C_ microcuries is 5.2x10\-4_CEγR_\-2 mrem/hour, where _R_ is the distance from the source in meters and _Eγ_ is the energy of the gamma ray in MeV. For gamma rays with energy less than 1 MeV, this formula is still approximately true for a full-body dose. However, low-energy gamma rays deposit their energy in a smaller mass of tissue than high-energy gamma rays and can cause high local doses. For example, the local dose to the hands from handling a 10 keV source can be up to 25 times the value given by the above formula; hands, however, have a higher tolerance to radiation than inner organs or eyes.
+For gamma rays with energy greater than 1 MeV, a useful approximation is that the equivalent dose due to a source with an activity of _C_ microcuries is 5.2x10{{< sup "\\-4" >}}_CE{{< sub "γ" >}}R_{{< sup "\\-2" >}} mrem/hour, where _R_ is the distance from the source in meters and _E{{< sub "γ" >}}_ is the energy of the gamma ray in MeV. For gamma rays with energy less than 1 MeV, this formula is still approximately true for a full-body dose. However, low-energy gamma rays deposit their energy in a smaller mass of tissue than high-energy gamma rays and can cause high local doses. For example, the local dose to the hands from handling a 10 keV source can be up to 25 times the value given by the above formula; hands, however, have a higher tolerance to radiation than inner organs or eyes.
 
-The protective value of shielding varies drastically with the energy of the photons. The intensity of a “soft” x-ray beam of less than 1 keV can be reduced by many orders of magnitude with a millimeter of aluminum while 1.2 MeV gamma rays from 60Co are attenuated by only a factor of two by a lead sheet 0.5 inch thick. The best way to keep your dosage down is to put distance between you and the source. If you stay a meter away from most sources in Junior Lab, you will be receiving, even without any lead shielding, a dose which is much less than your allowable background dose. If, however, you sit reading the write-up with a box of sources a few inches away, you may momentarily be receiving ten to a hundred times the background level.
+The protective value of shielding varies drastically with the energy of the photons. The intensity of a “soft” x-ray beam of less than 1 keV can be reduced by many orders of magnitude with a millimeter of aluminum while 1.2 MeV gamma rays from {{< sup "60" >}}Co are attenuated by only a factor of two by a lead sheet 0.5 inch thick. The best way to keep your dosage down is to put distance between you and the source. If you stay a meter away from most sources in Junior Lab, you will be receiving, even without any lead shielding, a dose which is much less than your allowable background dose. If, however, you sit reading the write-up with a box of sources a few inches away, you may momentarily be receiving ten to a hundred times the background level.
 
 {{< anchor "cryogenic" >}}{{< /anchor >}}
 

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Doppler-Free Laser Spectroscopy
 uid: 06030ef9-ad2a-c841-c3d8-0034d24b9dde
@@ -15,7 +18,7 @@ Spectroscopy experiment device.
 
 Traditionally, optical spectroscopy had been performed by dispersing the light emitted by excited matter, or by dispersing the light transmitted by an absorber. Alternatively, if one has available a tunable monochromatic source (such as certain lasers), a spectrum can be measured one wavelength at a time by measuring light intensity (fluorescence or transmission) as a function of the wavelength of the tunable source.
 
-In either case, physically important structures in such spectra are often obscured by the Doppler broadening of spectral lines that comes from the thermal motion of atoms in the matter. In this experiment you will make use of an elegant technique known as Doppler-free saturated absorption spectroscopy that circumvents the problem of Doppler broadening. The primary experimental objective will be to use this technique to measure the hyperfine splittings in the _S1/2_ and _P1/2_ it about lasers in general and diode lasers in particular.
+In either case, physically important structures in such spectra are often obscured by the Doppler broadening of spectral lines that comes from the thermal motion of atoms in the matter. In this experiment you will make use of an elegant technique known as Doppler-free saturated absorption spectroscopy that circumvents the problem of Doppler broadening. The primary experimental objective will be to use this technique to measure the hyperfine splittings in the _S{{< sub "1/2" >}}_ and _P{{< sub "1/2" >}}_ it about lasers in general and diode lasers in particular.
 
 Lab Guide
 ---------
@@ -37,11 +40,11 @@ Pappas, P. G., et al. "[Saturation Spectroscopy with Laser Optical Pumping in At
 
 Aminoff, C. and M. Pinard. "Velocity Selective Optical Pumping." _J Physique_ 43 (1982): 263-277.
 
-Nakayama, S. "[Theoretical Analysis of Rb and Cs D2 Lines in Saturation Spectroscopy with Optical Pumping: Part I](http://iopscience.iop.org/article/10.1143/JJAP.23.879/meta)." _Journal of the Physical Society of Japan_ 23, no. 7 (1984): 879-883.
+Nakayama, S. "[Theoretical Analysis of Rb and Cs D{{< sub "2" >}} Lines in Saturation Spectroscopy with Optical Pumping: Part I](http://iopscience.iop.org/article/10.1143/JJAP.23.879/meta)." _Journal of the Physical Society of Japan_ 23, no. 7 (1984): 879-883.
 
-———. "[Theoretical Analysis of Rb and Cs D2 Lines in Doppler-Free Spectroscopic Techniques with Optical Pumping: Part II](http://iopscience.iop.org/article/10.1143/JJAP.24.1/meta)." _Journal of the Physical Society of Japan_ 24, no. 1 (1985): 1-7.
+———. "[Theoretical Analysis of Rb and Cs D{{< sub "2" >}} Lines in Doppler-Free Spectroscopic Techniques with Optical Pumping: Part II](http://iopscience.iop.org/article/10.1143/JJAP.24.1/meta)." _Journal of the Physical Society of Japan_ 24, no. 1 (1985): 1-7.
 
-———. "[Velocity Selective Optical Pumping Spectroscopy of D1 Lines in Alkali Atoms](https://journals.jps.jp/doi/abs/10.1143/JPSJ.53.3351)." _Journal of the Physical Society of Japan_ 53 (1984): 3351-3361.
+———. "[Velocity Selective Optical Pumping Spectroscopy of D{{< sub "1" >}} Lines in Alkali Atoms](https://journals.jps.jp/doi/abs/10.1143/JPSJ.53.3351)." _Journal of the Physical Society of Japan_ 53 (1984): 3351-3361.
 
 Camparo, J. C. "[The Diode Laser in Atomic Physics](https://www.tandfonline.com/doi/abs/10.1080/00107518508210984)." _Contemporary Physics_ 26, no. 5 (1985): 443-477.
 

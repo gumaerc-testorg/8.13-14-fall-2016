@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Written and Oral Report and Presentation Resources
 uid: 37724ef0-39b0-1ee5-0afa-95aa804d8a20
 ---

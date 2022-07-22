@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 ---
@@ -302,20 +304,6 @@ Mostly juniors
 ### Breakdown by Major
 
 Mostly physics majors
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Wooden lab benches with shelves; computer monitors and physics equipment on the on the benches; physics equipment also on the shelves.]({{< resource_file 41a89dcc-9fb2-068b-a2d0-ba89c00b41b8 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lab
-    
-    Junior lab sessions are held in the Helena Foundation Physics Junior Laboratory.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

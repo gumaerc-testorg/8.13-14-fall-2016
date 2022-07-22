@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Experiments
+parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Optical Pumping of Rubidium Vapor
 uid: 221808c6-1c60-8ff6-d63c-6012f46f649b
@@ -15,7 +18,7 @@ Optical Pumping experiment equipment.
 
 Rubidium vapor in a weak (~.01-10 gauss) magnetic field controlled with Helmholtz coils is pumped with circularly polarized D1 light from a rubidium rf discharge lamp. The degree of magnetization of the vapor is inferred from a differential measurement of its opacity to the pumping radiation.
 
-In the first part of the experiment the energy separation between the magnetic substates of the ground-state hyperfine levels is determined as a function of the magnetic field from measurements of the frequencies of rf photons that cause depolarization and consequent greater opacity of the vapor. The magnetic moments of the ground states of the _85_Rb and _87_Rb isotopes are derived from the data and compared with the vector model for addition of electronic and nuclear angular momenta.
+In the first part of the experiment the energy separation between the magnetic substates of the ground-state hyperfine levels is determined as a function of the magnetic field from measurements of the frequencies of rf photons that cause depolarization and consequent greater opacity of the vapor. The magnetic moments of the ground states of the _{{< sup "85" >}}_Rb and _{{< sup "87" >}}_Rb isotopes are derived from the data and compared with the vector model for addition of electronic and nuclear angular momenta.
 
 In the second part of the experiment the direction of magnetization is alternated between nearly parallel and nearly antiparallel to the optic axis, and the effects of the speed of reversal on the amplitude of the opacity signal are observed and compared with a computer model. The time constant of the pumping action is measured as a function of the intensity of the pumping light, and the results are compared with a theory of competing rate processes - pumping versus collisional depolarization.
 
