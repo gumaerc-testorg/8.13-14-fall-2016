@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'Experiments in relativistic kinematics: the universal speed limit and
+  time dilation. The existence of an absolute limit, c, on the speed of particles
+  is demonstrated by a measurement of the times of flight of cosmic-ray muons between
+  scintillation counters in the laboratory. The mean life of muons at rest is then
+  determined from a measurement of the distribution of radioactive decay times of
+  muons that stop in a large plastic scintillator.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +13,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: The Speed and Mean Life of Cosmic-Ray Muons
 uid: 33e90d1d-1125-2307-13a9-67e1abd752dd
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/the-speed-and-mean-life-of-cosmic-ray-muons/L14.jpg)
+{{< resource "48474fa6-3795-fe1b-ddbe-5e58a2f05be5" >}}
 
 Relativistic kinematics experiment equipment.
 
@@ -23,7 +31,7 @@ Given their measured short mean life, the measured speed limit, and the large di
 Lab Guide
 ---------
 
-[The Speed and Mean Life of Cosmic-Ray Muons Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp14)
+{{% resource_link dba397e1-19ac-fe92-807c-aeb1509c401e "The Speed and Mean Life of Cosmic-Ray Muons Lab Guide (PDF)" %}}
 
 References
 ----------

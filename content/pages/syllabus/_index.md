@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -14,9 +17,9 @@ Labs: 2 sessions / week, 3 hours / session
 Prerequisites
 -------------
 
-Students enrolling in _8.13 Experimental Physics I_ are expected to have recently completed [_8.04_ _Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016/).
+Students enrolling in _8.13 Experimental Physics I_ are expected to have recently completed [_8.04_ _Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016).
 
-Students enrolling in _8.14 Experimental Physics II_ are expected to have recently completed [_8.05_ _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/) and _8.13 Experimental Physics I_ so as to be prepared to immediately begin conducting investigations. 
+Students enrolling in _8.14 Experimental Physics II_ are expected to have recently completed [_8.05_ _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013) and _8.13 Experimental Physics I_ so as to be prepared to immediately begin conducting investigations. 
 
 Description
 -----------
@@ -49,7 +52,7 @@ Ethics in Science and Education
 
 _Nature is the ultimate enforcer of truth in science._ You will be tempted many times in Junior Lab to tamper with the integrity of your scientific results. Do not. This hurts yourself and others. You may also be tempted to plagiarize materials for your oral and written reports. Do not. All instances of academic misconduct in Junior Lab will be punished severely. Students are highly encouraged to review the materials on [MIT’s Academic Integrity website](http://integrity.mit.edu/).
 
-Please consult Junior Lab’s more extensive [Ethics in Science and Education section]({{< baseurl >}}/pages/syllabus/ethics) — which you are obligated to understand — for more specific discussion.
+Please consult Junior Lab’s more extensive {{% resource_link 6c3edbd8-8f2c-3782-ac65-107cfbe910a2 "Ethics in Science and Education section" %}} — which you are obligated to understand — for more specific discussion.
 
 Safety in Junior Lab
 --------------------
@@ -65,4 +68,4 @@ On the first day of 8.13, Junior Lab students receive a general safety discussio
 
 In particular, the ‘Doppler-Free Saturated Absorption Spectroscopy’ experiment utilizes a Class 3b near-IR laser operating at 40 mW of output power; the ‘Raman Spectroscopy’ experiment utilizes a Class 4 532 nm 2 W laser. As such, all users of these experiments must undergo MIT Laser Safety Training (EHS Course 371C, about 1.5 hours in length, offered by EHS every few weeks) prior to performing the experiment. All students should download the MIT Laser Safety manual and read, at a minimum, Section Two.XVI.D dealing with Class 3b laser controls.
 
-Please consult the more extensive [Safety in Junior Lab section]({{< baseurl >}}/pages/safety-in-junior-lab) — which you are obligated to understand — for more specific discussion.
+Please consult the more extensive {{% resource_link 29d99fa0-479e-dbce-b118-6e508eb8b5a3 "Safety in Junior Lab section" %}} — which you are obligated to understand — for more specific discussion.

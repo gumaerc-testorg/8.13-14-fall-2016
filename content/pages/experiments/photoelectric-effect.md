@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The maximum kinetic energy of electrons ejected from a metal surface
+  by monochromatic light, is measured for several wavelengths. The value of Planck's
+  constant is derived by an analysis of the data in the light of Einstein theory of
+  the photoelectric effect.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +11,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Photoelectric Effect
 uid: 012572fc-f382-c70b-fb3f-018c24c0232b
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Photoelectric effect measuring instruments on a table.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/photoelectric-effect/JLExp_I.jpg)
+{{< resource "6b62510a-6c60-f3ff-0df1-a7beaaebec93" >}}
 
 Photoelectric effect experiment equipment. (Image courtesy of MIT Junior Lab staff.)
 
@@ -21,7 +27,7 @@ The maximum kinetic energy of electrons ejected from a metal surface by monochro
 Lab Guide
 ---------
 
-[Photoelectric Effect Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17expi)
+{{% resource_link 34f0a474-943e-7e04-9746-0d228cbefd7e "Photoelectric Effect Lab Guide (PDF)" %}}
 
 References
 ----------

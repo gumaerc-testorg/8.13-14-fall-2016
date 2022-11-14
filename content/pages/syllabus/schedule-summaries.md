@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides schedule summaries for 8.13 and 8.14.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Schedule Summaries
 uid: f1df09ba-8695-da97-9a12-7711b3ce6675
+video_metadata:
+  youtube_id: null
 ---
 
 8.13 Experimental Physics I Schedule Summary
@@ -20,7 +23,7 @@ Next, two 3-hour sessions are scheduled for each of three short preliminary expe
 *   The Photoelectric Effect
 *   Poisson Statistics
 
-For useful information on how to prepare for these first experiments, see [The Purpose and Format of Junior Lab Preliminary Experiments (PDF)]({{< baseurl >}}/resources/mit8_13-14f16_jlprelim).
+For useful information on how to prepare for these first experiments, see {{% resource_link be71e76a-d233-bd3a-9f06-c36a8aa5f1b5 "The Purpose and Format of Junior Lab Preliminary Experiments (PDF)" %}}.
 
 The second day of each preliminary experiment will include further instruction and in-class exercises on foundational skills. Your work on the preliminary experiments will be graded for feedback, but will not count towards the final course grade.
 
@@ -46,7 +49,7 @@ The term culminates in a week-long series of public oral presentations given by 
 8.14 Experimental Physics II Schedule Summary
 ---------------------------------------------
 
-The first class period will be dedicated to selecting partners, choosing the first experiment, and brief introductory remarks by the section instructors. The remainder of the term will be divided into four experimental sessions of 5 days each. Experiments for three of the four sessions will be selected from the standard [Junior Lab Experiments menu]({{< baseurl >}}/pages/experiments), while the fourth will be an open-ended project of your own design. (For scheduling reasons, the open-ended project will not occur during the first experimental session.)
+The first class period will be dedicated to selecting partners, choosing the first experiment, and brief introductory remarks by the section instructors. The remainder of the term will be divided into four experimental sessions of 5 days each. Experiments for three of the four sessions will be selected from the standard {{% resource_link e52e9a2b-7600-071c-81b1-6a6630eb394d "Junior Lab Experiments menu" %}}, while the fourth will be an open-ended project of your own design. (For scheduling reasons, the open-ended project will not occur during the first experimental session.)
 
 Before the second experiment begins, each student group will propose a schedule for the use of the remaining three experimental sessions, most notably including the open-ended project, the scientific goals of which should be defined in the proposal. A brief draft proposal will be due near the middle of the first experiment, while a more formal two-page written proposal will be due near the end. Proposals should outline the required resources and scheduling constraints for the open-ended project. Projects beyond the scope of Junior Lab will be identified and scaled back at the draft proposal stage. Examples of projects include:
 
