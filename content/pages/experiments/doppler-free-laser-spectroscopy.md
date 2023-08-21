@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section you will make use of an elegant technique known as Doppler-free
+  saturated absorption spectroscopy that circumvents the problem of Doppler broadening.
+  The primary experimental objective will be to use this technique to measure the
+  hyperfine splittings in the S1/2 and P1/2 states of Rb. In addition, you will learn
+  a bit about lasers in general and diode lasers in particular.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +12,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Doppler-Free Laser Spectroscopy
 uid: 06030ef9-ad2a-c841-c3d8-0034d24b9dde
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/doppler-free-laser-spectroscopy/L48.jpg)
+{{< resource "c369bc34-2002-9ca5-3055-24222643bd30" >}}
 
 Spectroscopy experiment device.
 
@@ -23,12 +30,12 @@ In either case, physically important structures in such spectra are often obscur
 Lab Guide
 ---------
 
-[Doppler-Free Laser Spectroscopy Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp48)
+{{% resource_link fbe5886b-dbfc-41ed-2dba-b769b7feec62 "Doppler-Free Laser Spectroscopy Lab Guide (PDF)" %}}
 
 References
 ----------
 
-Feld, M. S., and V. S. Letokhov. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Laser Spectroscopy (PDF)](https://www.nature.com/scientificamerican/journal/v229/n6/pdf/scientificamerican1273-69.pdf)." _Scientific American_ 229 (Dec. 1973): 69-85.
+Feld, M. S., and V. S. Letokhov. "[Laser Spectroscopy (PDF)](https://www.nature.com/scientificamerican/journal/v229/n6/pdf/scientificamerican1273-69.pdf)." _Scientific American_ 229 (Dec. 1973): 69-85.
 
 Letokhov, V. S. "Saturation Spectroscopy." Chapter 4 in _Topics in Applied Physics_, Edited by K. Shimoda. Berlin: Springer, 1976, pp. 95-171.
 
@@ -54,4 +61,4 @@ Wieman, C. E., and L. Hollberg. "[Using Diode Lasers for Atomic Physics](https:/
 
 MacAdam, K. B., A. Steinbach, and C. Wieman. "[A Narrow‐band Tunable Diode Laser System with Grating Feedback, and a Saturated Absorption Spectrometer for Cs and Rb](https://aapt.scitation.org/doi/10.1119/1.16955)." _American Journal of Physics_ 60, no. 12 (1992): 1098-1111.
 
-Steck, D. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Rubidium 87 D Line Data_ (PDF)](http://www.steck.us/alkalidata/rubidium87numbers.1.6.pdf)." Los Alamos Theoretical Division (T-8). September 2001.
+Steck, D. "[_Rubidium 87 D Line Data_ (PDF)](http://www.steck.us/alkalidata/rubidium87numbers.1.6.pdf)." Los Alamos Theoretical Division (T-8). September 2001.

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The scattering of alpha particles by nuclei. Nearly monoenergetic alpha
+  particles (He nuclei) in a collimated beam from an source are scattered from thin
+  foils of gold or titanium, and the intensities of the scattered alpha particles
+  are measured with a silicon barrier detector at various scattering angles.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +11,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Rutherford Scattering
 uid: 6a6e6e85-05a9-4bba-fea7-59a058529e6e
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Small experiment equipment on the table and a big cylinder shape equipment on the floor.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/rutherford-scattering/L15.jpg)
+{{< resource "ae907b8b-e5f7-8570-b67d-cd90092e1f9c" >}}
 
 Rutherford scattering experiment equipment.
 
@@ -23,7 +29,7 @@ The energies of the incident alpha particles can be reduced by placing a gold fo
 Lab Guide
 ---------
 
-[Rutherford Scattering Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp15)
+{{% resource_link f83bb6ad-a6c5-6da0-65d3-72126fff731c "Rutherford Scattering Lab Guide (PDF)" %}}
 
 References
 ----------

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -7,6 +8,8 @@ parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Expectations and Grading Policy
 uid: 2820c983-4125-9d82-58a7-3d23a77dc986
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -177,7 +180,7 @@ Throughout the term, you will be required to maintain a detailed real-time recor
 
 > The first check will be around midterm for 3% of the final grade, and the final check will be at the end of the semester for 5% of the final grade. Having already taken 8.13, you should be well versed in how to maintain a good laboratory notebook. Spot checks of your notebook may also occur during lab sessions as an indicator of lab performance, and as part of the oral exams as an indicator of data quality.
 
-A detailed discussion of how to set up and use a scientific notebook is given in [Requirements for Experimental Notebooks]({{< baseurl >}}/pages/requirements-for-experimental-notebooks), a copy of which is recommended to be taped to the inside cover of your notebook for routine consultation.
+A detailed discussion of how to set up and use a scientific notebook is given in {{% resource_link b6c21d9d-b22c-72ff-13a3-232d88222fa2 "Requirements for Experimental Notebooks" %}}, a copy of which is recommended to be taped to the inside cover of your notebook for routine consultation.
 
 Homework and Exercises (8.13 Students Only)
 -------------------------------------------
@@ -200,7 +203,7 @@ For each main experiment, a one-hour total length (2 students × 30 minutes each
 
 Each student should prepare a 15-minute oral report on the theoretical and experimental aspects of a single portion of the experiment. This is a short time, so it is essential that you rehearse your presentation as you would if you were giving a 15-minute presentation at a meeting of the [American Physical Society](https://www.aps.org/). Please review the [Speaker Tips and Guidelines](http://www.aps.org/meetings/policies/speaker.cfm).
 
-You must prepare your visual aids electronically (e.g. slides in the LaTeX beamer class or MS PowerPoint) for use with a digital projector in a professional-style presentation. We suggest a maximum of ten slides. [Written and Oral Report Resources]({{< baseurl >}}/pages/written-and-oral-report-resources) have detailed instructions and templates for generating your own presentations.
+You must prepare your visual aids electronically (e.g. slides in the LaTeX beamer class or MS PowerPoint) for use with a digital projector in a professional-style presentation. We suggest a maximum of ten slides. {{% resource_link 37724ef0-39b0-1ee5-0afa-95aa804d8a20 "Written and Oral Report Resources" %}} have detailed instructions and templates for generating your own presentations.
 
 The theoretical section should briefly demonstrate a mastery of some portion of theory relevant to understanding the significance of the experimental results. The experimental section should dominate the discussion and demonstrate an understanding of how the equipment works, what was measured, how the data were reduced, and how the random and systematic errors were estimated. Each student must discuss different aspects of the motivating theory and experiment. Furthermore, it is not acceptable to discuss theory only or experiment only; every presentation should contain a balance! Full cooperation with lab partners and others in preparing for the oral reports is encouraged and required. This latter aspect is particularly important to ensure that both partners report the same results!
 
@@ -239,7 +242,7 @@ You must submit your written summary to your section instructor by the appointed
 
 Your summary’s organization and style should resemble that of an article in the [_Physical Review Letters_](https://journals.aps.org/prl/authors). In particular, the abstract is essential. It should briefly mention the motivation (purpose), the method (how measured) and most importantly, the quantitative result with uncertainties.
 
-The report must be typeset in a form that would be suitable for submission as a manuscript. To aid you in this process, we have produced a sample paper template written in LATEX that we encourage you to study and use for your own submissions. The sample paper is downloadable from [Written and Oral Report Resources]({{< baseurl >}}/pages/written-and-oral-report-resources) along with its associated .tex file.
+The report must be typeset in a form that would be suitable for submission as a manuscript. To aid you in this process, we have produced a sample paper template written in LATEX that we encourage you to study and use for your own submissions. The sample paper is downloadable from {{% resource_link 37724ef0-39b0-1ee5-0afa-95aa804d8a20 "Written and Oral Report Resources" %}} along with its associated .tex file.
 
 Papers will be graded using the following criteria:
 

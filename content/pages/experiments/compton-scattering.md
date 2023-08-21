@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section talks about the scattering of high-energy photons by electrons.
+  High-energy (662 keV) photons in a collimated beam from a radioactive 137 Cs source
+  are scattered from electrons in a target which is itself a scintillation counter
+  which detects the recoil electron.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +11,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Compton Scattering
 uid: 9fc6c7e8-5f55-51e1-f3d7-2213d8befe8e
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/compton-scattering/L1.jpg)
+{{< resource "4a33271f-ced6-f939-5454-56c174da7b19" >}}
 
 Compton scattering experiment equipment.
 
@@ -23,7 +29,7 @@ In the second part the target is a plastic scintillator, and the relative intens
 Lab Guide
 ---------
 
-[Compton Scattering Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp1)
+{{% resource_link 43652cf2-53d8-6683-0b47-2ac58a1e1df6 "Compton Scattering Lab Guide (PDF)" %}}
 
 References
 ----------

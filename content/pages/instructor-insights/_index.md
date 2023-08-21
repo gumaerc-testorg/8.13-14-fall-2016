@@ -1,118 +1,75 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
+video_metadata:
+  youtube_id: null
 ---
+## Instructor Interviews
 
-{{< anchor "insights" >}}{{< /anchor >}}
-
-Instructor Insights
--------------------
-
-{{< quote "MIT students . . . want to change the world. That's going to happen if, and only if, they can talk and write about (their research) effectively." "— Atissa Banuazizi" >}}
-
-_In the following videos, Professors Janet Conrad and Gunther Roland describe various aspects of how they teach “Junior Lab.” Dr. Sean Robinson shares his insights about facilitating the lab experiences associated with the courses, while Atissa Banuazizi discusses her role in developing students’ science communication proficiencies._
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+*In the following videos, Professors Janet Conrad and Gunther Roland describe various aspects of how they teach “Junior Lab.” Dr. Sean Robinson shares his insights about facilitating the lab experiences associated with the courses, while Atissa Banuazizi discusses her role in developing students’ science communication proficiencies.*
 
 **Professor Janet Conrad**
 
-[![Woman sitting in front of a blackboard and talking.]({{< resource_file 16ac25a1-c3af-1a9e-0542-d26a5dbc7ca4 >}})]({{< baseurl >}}/resources/meet-prof-janet-conrad)
-
-*   [Meet Professor Janet Conrad]({{< baseurl >}}/resources/meet-prof-janet-conrad)
-*   [How Students Develop as Physicists Over the Course of the Semester]({{< baseurl >}}/resources/how-students-develop-as-physicists)
-*   [Creating a Supportive Learning Environment]({{< baseurl >}}/resources/creating-a-supportive-learning-environment)
-*   [Teaching as Coaching]({{< baseurl >}}/resources/teaching-as-coaching)
-*   [Assessing Learning through Student Talks]({{< baseurl >}}/resources/assessing-learning-through-student-talks)
-*   [On Grading Student Papers]({{< baseurl >}}/resources/on-grading-student-papers)
-*   [Faster than the Speed of Light: A Future Junior Lab Experiment]({{< baseurl >}}/resources/faster-than-the-speed-of-light)
-*   [Improving Early Physics Education]({{< baseurl >}}/resources/improving-early-physics-education)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+- {{% resource_link df6b715d-9341-c3b8-4cef-761961cb8f87 "Meet Professor Janet Conrad" %}}
+- {{% resource_link f47d9083-5f45-fc7d-1427-d2954da92875 "How Students Develop as Physicists Over the Course of the Semester" %}}
+- {{% resource_link 44c58d5f-55b0-535b-05dd-7529285d9ce2 "Creating a Supportive Learning Environment" %}}
+- {{% resource_link e9e05121-7962-eec3-e0f2-3e29d9bf95b5 "Teaching as Coaching" %}}
+- {{% resource_link 6e6faa0c-880a-cd58-8c91-c488355503d8 "Assessing Learning through Student Talks" %}}
+- {{% resource_link bce99f3a-e956-a22f-6fbb-cdc524602914 "On Grading Student Papers" %}}
+- {{% resource_link 087e3e77-fe1a-57cb-7514-bd9240dec4ef "Faster than the Speed of Light: A Future Junior Lab Experiment" %}}
+- {{% resource_link 1cae39e4-1bdc-4e7a-7b06-990994a717fb "Improving Early Physics Education" %}}
 
 **Professor Gunther Roland**
 
-![Man sitting in front of a bookshelf and talking.]({{< resource_file cc531ff2-7ea9-7644-4c11-7059393547da >}})
-
-*   [Meet Professor Gunther Roland]({{< baseurl >}}/resources/meet-professor-gunther-roland)
-*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators)
-*   [Unique Aspects of the Course]({{< baseurl >}}/resources/unique-aspects-of-the-course)
-*   [Pedagogical Iteration]({{< baseurl >}}/resources/pedagogical-iteration)
-*   [Developing Students’ Science Communication Skills]({{< baseurl >}}/resources/developing-students2019-science-communication-skills)
-*   [The Role of Teamwork in Junior Lab]({{< baseurl >}}/resources/the-role-of-teamwork-in-junior-lab)
-*   [Flipping the Classroom]({{< baseurl >}}/resources/flipping-the-classroom)
-*   [An Invitation to New Students]({{< baseurl >}}/resources/an-invitation-to-new-students)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+- {{% resource_link 90b27975-5a19-743e-9ba5-107236616176 "Meet Professor Gunther Roland" %}}
+- {{% resource_link d02f7004-0dcf-e1e4-880b-a5ae8d6a73ad "Tips for Educators" %}}
+- {{% resource_link 1d81a271-48b0-7b36-135e-f0ef01c25b3e "Unique Aspects of the Course" %}}
+- {{% resource_link 14409fe7-4de8-778e-dde7-100d31fe981f "Pedagogical Iteration" %}}
+- {{% resource_link 309e50f8-5fff-4007-3d58-b5e826ad4b11 "Developing Students’ Science Communication Skills" %}}
+- {{% resource_link f29b41f2-eb7d-6c1f-cba1-02fe306c390b "The Role of Teamwork in Junior Lab" %}}
+- {{% resource_link fdda27eb-7839-ad55-0ddf-c8f42f7c8747 "Flipping the Classroom" %}}
+- {{% resource_link d58aef66-dfe4-56a1-b522-2c165c4bb6ba "An Invitation to New Students" %}}
 
 **Dr. Sean Robinson**
 
-[![Man standing in front of a table and talking.]({{< resource_file 4cfe43f8-6238-0185-9633-236c0dfa7d39 >}})]({{< baseurl >}}/resources/meet-dr-sean-robinson)
-
-*   [Meet Dr. Sean Robinson]({{< baseurl >}}/resources/meet-dr-sean-robinson)
-*   [Student Challenge #1: Unlearning How to do Experiments]({{< baseurl >}}/resources/student-challenge-1)
-*   [Student Challenge #2: Encountering A Multidimensional Learning Surface]({{< baseurl >}}/resources/student-challenge-2)
-*   [Student Challenge #3: Learning Data Analysis]({{< baseurl >}}/resources/student-challenge-3)
-*   [Helping Students Cultivate Identities as Scientists]({{< baseurl >}}/resources/helping-students-cultivate-identities-as-scientists)
-*   [Providing Science Communication Practice]({{< baseurl >}}/resources/providing-science-communication-practice)
-*   [Eliciting Cognitive Dissonance]({{< baseurl >}}/resources/eliciting-cognitive-dissonance)
-*   [Flipping the Classroom]({{< baseurl >}}/resources/flipping-the-classroom-2)
-*   [An Active Learning Example]({{< baseurl >}}/resources/an-active-learning-example)
-*   [Developing New Experiments: Behind-the-Scenes]({{< baseurl >}}/resources/developing-new-experiments-behind-the-scenes)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+- {{% resource_link 6f0f878f-ad3c-c434-0a79-88f003ec5324 "Meet Dr. Sean Robinson" %}}
+- {{% resource_link a967ba5e-ded4-5b0f-8551-d3ca797ea996 "Student Challenge #1: Unlearning How to do Experiments" %}}
+- {{% resource_link 3beedc99-2344-1d94-3f66-543717b42dd1 "Student Challenge #2: Encountering A Multidimensional Learning Surface" %}}
+- {{% resource_link c75b8330-cc68-410e-369a-ef2fcaf1e95f "Student Challenge #3: Learning Data Analysis" %}}
+- {{% resource_link e14049a5-6549-b1d5-c0c7-07ca67648adb "Helping Students Cultivate Identities as Scientists" %}}
+- {{% resource_link cd4da3b5-6000-cb5d-2819-772ca3508f90 "Providing Science Communication Practice" %}}
+- {{% resource_link de7c11d3-82cc-d6dd-a0cf-8476259cbe51 "Eliciting Cognitive Dissonance" %}}
+- {{% resource_link dfefc37d-be8f-873c-093a-d423c1fe1b15 "Flipping the Classroom" %}}
+- {{% resource_link 62caea28-9730-55ce-427f-027cd505c63d "An Active Learning Example" %}}
+- {{% resource_link 19e68c05-d2a1-932c-f1ce-68641cb74985 "Developing New Experiments: Behind-the-Scenes" %}}
 
 **Atissa Banuazizi**
 
-[![Woman sitting in front of a window and talking.]({{< resource_file ae3c1603-dd35-796f-ef2d-5411f56aad98 >}})]({{< baseurl >}}/resources/meet-atissa-banuazizi)
+- {{% resource_link 454b504a-99a5-c8c7-cb1f-6c6f4a48dc55 "Meet Atissa Banuazizi" %}}
+- {{% resource_link 9cb8ad8f-1940-150c-980c-ddd4c79371a3 "The Role of Iteration in Developing Oral Communication Skills" %}}
+- {{% resource_link a926fe4f-e453-09ee-6a0e-03cb015b8ea7 "Supporting Students with Individual Conferences" %}}
+- {{% resource_link 52f10d2c-cd9c-36b4-bcb9-b94f31a23e06 "Using the Concept of Metadiscourse to Improve Students’ Oral Presentations" %}}
+- {{% resource_link f31c7ea4-2861-7074-b112-e917bbbb543e "Positioning Communication Instructors as Coaches, Not Graders" %}}
+- {{% resource_link eec7b249-96b5-4ace-9bee-e30b22de1f47 "Tips for Partnering with Technical Faculty" %}}
+- {{% resource_link cd6475a8-4f36-abba-c6d8-66d8f55d3a5c "Building Up to an Audience" %}}
+- {{% resource_link f3257bc1-69df-0c59-5578-e3de46fc2d76 "Science is Communication" %}}
 
-*   [Meet Atissa Banuazizi]({{< baseurl >}}/resources/meet-atissa-banuazizi)
-*   [The Role of Iteration in Developing Oral Communication Skills]({{< baseurl >}}/resources/the-role-of-iteration-in-developing-oral-communication-skills)
-*   [Supporting Students with Individual Conferences]({{< baseurl >}}/resources/supporting-students-with-individual-conferences)
-*   [Using the Concept of Metadiscourse to Improve Students’ Oral Presentations]({{< baseurl >}}/resources/improve-oral-presentations)
-*   [Positioning Communication Instructors as Coaches, Not Graders]({{< baseurl >}}/resources/positioning-communication-instructors-as-coaches-not-graders)
-*   [Tips for Partnering with Technical Faculty]({{< baseurl >}}/resources/tips-for-partnering-with-technical-faculty)
-*   [Building Up to an Audience]({{< baseurl >}}/resources/building-up-to-an-audience)
-*   [Science is Communication]({{< baseurl >}}/resources/science-is-communication)
+*Below, Dr. Sean Robinson discusses the course re-design that shifted how instructors and students experience Junior Lab.*
 
+Re-Designing Junior Lab
 
-{{< tdclose >}}
+## Teaching Assistant Interview
 
-{{< trclose >}}
+*Below, Aditya Pathak responds to questions about being a graduate teaching assistant in* 8.13 Experimental Physics I.
 
-{{< tableclose >}}
-{{< quote "We used flipped classroom techniques to make the direct instruction the homework, and then had class time for students to interact with experts who could support their active learning." "— Sean Robinson" >}}
-
-_Below, Dr. Sean Robinson discusses the course re-design that shifted how instructors and students experience Junior Lab._
-
-[Re-Designing Junior Lab]({{< baseurl >}}/pages/instructor-insights/re-designing-junior-lab)
-
-Teaching Assistant Insights
----------------------------
-
-{{< quote "Junior Lab is a world class teaching lab. Even as a teaching assistant, you can learn skills important for your research." "— Aditya Pathak" >}}
-
-_Below, Aditya Pathak responds to questions about being a graduate teaching assistant in_ 8.13 Experimental Physics I.
-
-**OCW**: Teaching assistantships vary from class to class. Please describe your role as a graduate teaching assistant in _8.13 Experimental Physics I_.
+**OCW**: Teaching assistantships vary from class to class. Please describe your role as a graduate teaching assistant in *8.13 Experimental Physics I*.
 
 **Aditya Pathak:** My role as a teaching assistant was to help students carry out experiments, which included helping them understand the experiments and debug common errors. I also graded their presentations and paper reports, along with the instructor, and graded other pre-lab homework problems.
 
@@ -121,12 +78,6 @@ _Below, Aditya Pathak responds to questions about being a graduate teaching assi
 **Aditya Pathak:** Students often went straight into the experiments without fully understanding the theory they were testing. Because Junior Lab emphasizes the quality of students’ analyses, they needed a lot of guidance.
 
 Junior Lab also requires that students maintain harmonious and fair relationships with their lab partners. While most students got along well in my sections, it's not always a given.
-
-{{< div-with-class "reveal1">}}
-
-› _Read More/Read Less_
-
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
 **OCW**: In what ways did supporting students advance your own work as a physicist?
 
@@ -148,75 +99,44 @@ We have come a long way since he joined and we plan to finish this project with 
 
 There are students in Junior Lab so talented that every second spent attending their presentations is worth it. And, you never know, you might find great students to help you with your research projects like I did!
 
-{{< /div-with-class >}}
+## Student Interviews
 
-Student Insights
-----------------
-
-_In the following videos, five MIT students offer advice for future students taking Junior Lab and tips for educators facilitating similar experiences._
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+*In the following videos, five MIT students offer advice for future students taking Junior Lab and tips for educators facilitating similar experiences.*
 
 **Saarik Kalia & Efetobore (Toby) Tasker**
 
-*   [Keys to Success in the Course: Perseverance and Data Analysis]({{< baseurl >}}/resources/keys-to-success-in-the-course)
-*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators-2)
+- {{% resource_link 89411863-4532-bb6e-42ac-3c03bd50f632 "Keys to Success in the Course: Perseverance and Data Analysis" %}}
+- {{% resource_link e771adc9-82f0-e8af-4466-33d7e5c30bc8 "Tips for Educators" %}}
 
 **Tal Scully**
 
-*   [Junior Lab Offers A Wide Range of Experiments]({{< baseurl >}}/resources/junior-lab-offers-a-wide-range-of-experiments)
-*   [Advice for Students: Be Persistent]({{< baseurl >}}/resources/advice-for-students-be-persistent)
-*   [Advice for Women in Physics: Be Confident]({{< baseurl >}}/resources/advice-for-women-in-physics-be-confident)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-     
-{{< tdclose >}}
-{{< tdopen >}}
-
+- {{% resource_link c9c5a9d0-0153-4568-140a-9d833897b638 "Junior Lab Offers A Wide Range of Experiments" %}}
+- {{% resource_link e936cc86-8829-193e-512d-32cbb92dca03 "Advice for Students: Be Persistent" %}}
+- {{% resource_link 424d8191-23f3-7ee9-abab-10d4a4347d9b "Advice for Women in Physics: Be Confident" %}}
 
 **Christina Wang**
 
-*   [Take this Course, Even if you Want to be a Theoretical Physicist]({{< baseurl >}}/resources/take-this-course-even-if-you-want-to-be-a-theoretical-physicist)
-*   [Time Management Tip: Don’t Procrastinate!]({{< baseurl >}}/resources/time-management-tip-don2019t-procrastinate)
+- {{% resource_link 20fffd50-9699-8ac0-578f-22c7b1c8404e "Take this Course, Even if you Want to be a Theoretical Physicist" %}}
+- {{% resource_link 9f1c6573-5b11-e085-5a89-f76c11f3ae05 "Time Management Tip: Don’t Procrastinate!" %}}
 
 **Henry Shackleton**
 
-*   [Advice about Teamwork: Take Time to Verify Your Partner’s Work]({{< baseurl >}}/resources/advice-about-teamwork-take-time-to-verify-your-partner2019s-work)
-*   [On the Flipped Classroom Format]({{< baseurl >}}/resources/on-the-flipped-classroom-format)
-*   [A Space to Figure Things Out]({{< baseurl >}}/resources/a-space-to-figure-things-out)
-*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators-shackleton)
+- {{% resource_link 2f48684d-523a-d37f-4175-ed75ed9992cf "Advice about Teamwork: Take Time to Verify Your Partner’s Work" %}}
+- {{% resource_link 309ff420-a55f-3ff6-80f3-3d02b9e6b4dd "On the Flipped Classroom Format" %}}
+- {{% resource_link e8cda024-468d-835d-fae4-60dd4410eae2 "A Space to Figure Things Out" %}}
+- {{% resource_link 0aa8802e-3126-2b61-716a-e4824029bc9c "Tips for Educators" %}}
 
+*Below, Talia Weiss responds to questions about her experiences as a junior physics major enrolled in* 8.13 Experimental Physics I.
 
-{{< tdclose >}}
+**OCW**: What did you learn about science communication by taking *8.13 Experimental Physics I*?
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-_Below, Talia Weiss responds to questions about her experiences as a junior physics major enrolled in_ 8.13 Experimental Physics I.
-
-{{< quote "I would advise future 8.13 students to use the first month of the class to proactively develop effective collaboration and organizational strategies with your partner." "— Talia Weiss" >}}
-
-**OCW**: What did you learn about science communication by taking _8.13 Experimental Physics I_?
-
-**Talia Weiss:** Going into the course, I hoped it would expand my previous experience presenting physics research. _8.13 Experimental Physics I_ met and exceeded those expectations. It provided us with ample practice developing quality talks in a limited timeframe, crafting PowerPoint slides to most effectively and engagingly convey key points about an experiment, and ensuring that our content and presentation style was accessible and clear.
+**Talia Weiss:** Going into the course, I hoped it would expand my previous experience presenting physics research. *8.13 Experimental Physics I* met and exceeded those expectations. It provided us with ample practice developing quality talks in a limited timeframe, crafting PowerPoint slides to most effectively and engagingly convey key points about an experiment, and ensuring that our content and presentation style was accessible and clear.
 
 **OCW**: What factors contributed to your success in 8.13? Were there any teaching strategies your instructors used that particularly supported your learning?
 
 **Talia Weiss:** The introductory period of the class, in which we learned relevant skills, conducted small experiments, presented an ungraded talk and wrote an ungraded paper, was particularly useful in preparing us to dive into more complex experiments and analyses. During this time period, the professor clearly established meaningful standards for quality of plot making and paper writing. Throughout the semester, instructors were consistently available to respond to questions. Dr. Robinson was always very gracious and willing to discuss lab procedures, experimental challenges (as they arose), and data analysis. In addition, I appreciated having the opportunity to improve presentation slides with the help of a writing instructor.
 
-{{< div-with-class "reveal2">}}
-
-› _Read More/Read Less_
-
-{{< /div-with-class >}}{{< div-with-class "toggle2">}}
-
-**OCW**: What advice do you have for other students about engaging with and getting the most out _8.13 Experimental Physics I_?
+**OCW**: What advice do you have for other students about engaging with and getting the most out *8.13 Experimental Physics I*?
 
 **Talia Weiss:** I would advise future 8.13 students as follows: use the first month of the class to proactively develop effective collaboration and organizational strategies with your partner, in terms of preparing for lab sessions, scheduling your time, and establishing systems of data-taking, recording, and analysis.
 
@@ -226,32 +146,21 @@ The 8.13 instructors advised us to analyze data immediately after we collected t
 
 **Talia Weiss:** I’d like to pass on three pieces of advice adapted from guidance given by MIT Professor of Physics [Jesse Thaler](http://web.mit.edu/physics/people/faculty/thaler_jesse.html) (who intended this advice for all students, but I think it could be particularly valuable for young women in physics):
 
-1.  Make yourself seen—go to talks, show up to class, be active and participate.
-2.  Find mentors who are concerned about your success and well-being.
-3.  Learn to tell a compelling story, regardless of the subject area.
+1. Make yourself seen—go to talks, show up to class, be active and participate.
+2. Find mentors who are concerned about your success and well-being.
+3. Learn to tell a compelling story, regardless of the subject area.
 
-{{< /div-with-class >}}
+## *Physical Review Letters* Editor Interview
 
-_Physical Review Letters_ Editor Insights
------------------------------------------
+*Students in Junior Lab write papers in the style of* [Physical Review Letters](https://journals.aps.org/prl/about) *to hone their science communication skills. Below, Dr. Robert Garisto, an editor of this premier journal, responds to questions about helping students and young professionals develop professional competencies as writers in the field.*
 
-{{< quote "Scientists are not born knowing how to communicate their results clearly." "— Robert Garisto" >}}
-
-_Students in Junior Lab write papers in the style of_ [Physical Review Letters](https://journals.aps.org/prl/about) _to hone their science communication skills. Below, Dr. Robert Garisto, an editor of this premier journal, responds to questions about helping students and young professionals develop professional competencies as writers in the field._
-
-**OCW**: Please describe your role at _Physical Review Letters_ (PRL).
+**OCW**: Please describe your role at *Physical Review Letters* (PRL).
 
 **Dr. Robert Garisto:** The primary responsibility of a PRL editor is to decide, via a peer review process, which manuscripts submitted to PRL will be accepted for publication. I have a number of other roles, including deciding which papers we will highlight with a PRL [Editors' Suggestion](https://journals.aps.org/prl/highlights), managing several junior editors, and helping chart the course for the future of the journal.
 
 **OCW**: What challenges do you see newly-minted physicists encountering in the realm of science communication?
 
 **Dr. Robert Garisto:** As young researchers move further into a specific field, they focus on ever more arcane details, and tend to talk in acronym-laden jargon. The biggest communication challenge is bridging the gap between calculations and lab notes written in that jargon and a polished piece that the larger community can understand. This is a skill—scientists are not born knowing how to communicate their results clearly. And how well results are communicated is crucial to how much they will affect future research, and how broad their reach will be. So, it is essential that physicists learn to clearly and concisely explain their results. The best time to learn to do that is before writing habits become ingrained.
-
-{{< div-with-class "reveal3">}}
-
-› _Read More/Read Less_
-
-{{< /div-with-class >}}{{< div-with-class "toggle3">}}
 
 **OCW**: In what ways does writing papers in the style of Physical Review Letters as undergraduates address some of these challenges?
 
@@ -269,29 +178,23 @@ _Students in Junior Lab write papers in the style of_ [Physical Review Letters](
 
 **Dr. Robert Garisto:** Brevity is the soul of wit.
 
-{{< /div-with-class >}}
-
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   [_8.04 Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016/) is the prerequisite for taking _8.13_ _Experimental Physics I._
-*   [8.05 _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/) and _8.13 Experimental Physics I_ are the prerequisites for taking _8.14 Experimental Physics II._ 
+- [*8.04 Quantum Physics I*](/courses/8-04-quantum-physics-i-spring-2016) is the prerequisite for taking *8.13* *Experimental Physics I.*
+- [8.05 *Quantum Physics II*](/courses/8-05-quantum-physics-ii-fall-2013) and *8.13 Experimental Physics I* are the prerequisites for taking *8.14 Experimental Physics II.*
 
 ### Requirements Satisfied
 
-*   CI-M ![](/images/educator/icon-question-cim.png) (8.13)
-*   8.13 and 8.14 can be applied toward a [Bachelor of Science in Physics](http://catalog.mit.edu/degree-charts/physics-course-8/).
+- CI-M ![](/images/educator/icon-question-cim.png) (8.13)
+- 8.13 and 8.14 can be applied toward a [Bachelor of Science in Physics](http://catalog.mit.edu/degree-charts/physics-course-8/).
 
 ### Offered
 
-*   8.13 is offered every fall and spring semester and 8.14 is offered every spring semester.
+- 8.13 is offered every fall and spring semester and 8.14 is offered every spring semester.
 
-Student Information
--------------------
-
-![15-40 students took this course when it was taught in Fall 2016 and Spring 2017.]({{< resource_file 8b61144e-6182-ef4d-b551-06a70657e419 >}})
+## Student Information
 
 ### Enrollment
 
@@ -305,10 +208,9 @@ Mostly juniors
 
 Mostly physics majors
 
-{{< anchor "assessment" >}}{{< /anchor >}}
+## *8.13 Experimental Physics I*
 
-_8.13 Experimental Physics I_  Assessment
------------------------------------------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -318,10 +220,9 @@ The students' grades were based on the following activities:
 - 30% Four-page written summaries (3)
 - 10% Final oral presentation (public)
 
-{{< anchor "assessment" >}}{{< /anchor >}}
+## *8.14 Experimental Physics II* 
 
-_8.14 Experimental Physics II_  Assessment
-------------------------------------------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -331,51 +232,45 @@ The students' grades were based on the following activities:
 - 16% Five-page written summaries (3)
 - 32% Project proposal, poster, and peer review
 
-{{< anchor "studenttime" >}}{{< /anchor >}}
+## *8.13 Experimental Physics I*  
 
-_8.13 Experimental Physics I_  How Student Time Was Spent
----------------------------------------------------------
-
-During an average week, students were expected to spend 18 hours on the course, roughly divided as follows:
-
-In Class
---------
-
-*   Met 2 times per week for 3 hours per session; 26 sessions total.
-*   The first few class sessions familiarized students with the lab, giving everyone a common foundation in safety, experimental techniques, data analysis, collaboration skills, oral and written communication, and computing tools.
-*   Next, students completed three short preliminary experiments in pairs.
-*   Following the introductory period, students planned, executed, and reported on three longer experiments, also in pairs.
-*   The term culminated in a week-long series of public oral presentations given by students in the style of a parallel session at an American Physical Society conference.
-*   There were optional open lab days offered toward the end of the semester.
-
-Out of Class
-------------
-
-*   In-class work was complemented by a small number of graded homework assignments, some of which took place on the 8.13 MITx residential course site.
-*   Each experiment contained a set of preparatory questions which included the essentials of the experiment and safety information. Students were expected to work out the solutions to the preparatory problems in their lab notebooks and to submit answers on the 8.13 MITx residential course site before starting the experiment.
-*   For each main experiment, a one-hour oral examination and discussion was scheduled for each pair of lab partners. Students rehearsed for these exams outside of class. The oral exams were video-recorded so that students could review their presentation techniques.
-*   A written summary was prepared for each of the three standard experiments, plus one preliminary experiment. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the [Writing and Communication Center.](https://cmsw.mit.edu/writing-and-communication-center/)
-*   Students prepared their final oral presentations outside of class.
-
-{{< anchor "studenttime2" >}}{{< /anchor >}}
-
-_8.14 Experimental Physics II_  How Student Time Was Spent
-----------------------------------------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 18 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 3 hours per session; 26 sessions total.
-*   The first class period was dedicated to selecting partners, choosing the first experiments, and brief introductory remarks by the section instructors.
-*   The remainder of the term was divided into four experimental sessions of 5 days each. Experiments for three of the four sessions were selected from the standard Junior Lab menu, while the fourth was an open-ended project of students’ own design.
-*   The open-ended project was evaluated based on a scientific poster prepared and presented in an open poster session at the send of the semester. 
+- Met 2 times per week for 3 hours per session; 26 sessions total.
+- The first few class sessions familiarized students with the lab, giving everyone a common foundation in safety, experimental techniques, data analysis, collaboration skills, oral and written communication, and computing tools.
+- Next, students completed three short preliminary experiments in pairs.
+- Following the introductory period, students planned, executed, and reported on three longer experiments, also in pairs.
+- The term culminated in a week-long series of public oral presentations given by students in the style of a parallel session at an American Physical Society conference.
+- There were optional open lab days offered toward the end of the semester.
 
-Out of Class
-------------
+### Out of Class
 
-*   Each experiment contained a set of preparatory questions which included the essentials of the experiment and safety information. Students were expected to work out the solutions to the preparatory problems in their lab notebooks and to submit answers on the 8.14 MITx residential course site before starting the experiment.
-*   For each main experiment, a one-hour oral examination and discussion was scheduled for each pair of lab partners. Students rehearsed for these exams outside of class. The oral exams were video-recorded so that students could review their presentation techniques.
-*   A written summary in the style of a _Physical Review Letter_ was prepared for each of the three standard experiments. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the [Writing and Communication Center.](https://cmsw.mit.edu/writing-and-communication-center/)
-*   Students worked on their scientific posters and presentations outside of class.
+- In-class work was complemented by a small number of graded homework assignments, some of which took place on the 8.13 MITx residential course site.
+- Each experiment contained a set of preparatory questions which included the essentials of the experiment and safety information. Students were expected to work out the solutions to the preparatory problems in their lab notebooks and to submit answers on the 8.13 MITx residential course site before starting the experiment.
+- For each main experiment, a one-hour oral examination and discussion was scheduled for each pair of lab partners. Students rehearsed for these exams outside of class. The oral exams were video-recorded so that students could review their presentation techniques.
+- A written summary was prepared for each of the three standard experiments, plus one preliminary experiment. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the [Writing and Communication Center.](https://cmsw.mit.edu/writing-and-communication-center/)
+- Students prepared their final oral presentations outside of class.
+
+## *8.14 Experimental Physics II*  
+
+## How Student Time Was Spent
+
+During an average week, students were expected to spend 18 hours on the course, roughly divided as follows:
+
+### In Class
+
+- Met 2 times per week for 3 hours per session; 26 sessions total.
+- The first class period was dedicated to selecting partners, choosing the first experiments, and brief introductory remarks by the section instructors.
+- The remainder of the term was divided into four experimental sessions of 5 days each. Experiments for three of the four sessions were selected from the standard Junior Lab menu, while the fourth was an open-ended project of students’ own design.
+- The open-ended project was evaluated based on a scientific poster prepared and presented in an open poster session at the send of the semester. 
+
+### Out of Class
+
+- Each experiment contained a set of preparatory questions which included the essentials of the experiment and safety information. Students were expected to work out the solutions to the preparatory problems in their lab notebooks and to submit answers on the 8.14 MITx residential course site before starting the experiment.
+- For each main experiment, a one-hour oral examination and discussion was scheduled for each pair of lab partners. Students rehearsed for these exams outside of class. The oral exams were video-recorded so that students could review their presentation techniques.
+- A written summary in the style of a *Physical Review Letter* was prepared for each of the three standard experiments. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the [Writing and Communication Center.](https://cmsw.mit.edu/writing-and-communication-center/)
+- Students worked on their scientific posters and presentations outside of class.

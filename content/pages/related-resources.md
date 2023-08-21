@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides links to physics resources and other advanced physics
+  labs.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: c0fd6569-ea2b-f085-29bb-f8817e92b3bb
+video_metadata:
+  youtube_id: null
 ---
 
 Physics Resources

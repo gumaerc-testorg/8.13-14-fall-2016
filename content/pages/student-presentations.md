@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section includes 3 student presentation videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Presentations
 uid: 110bac00-b291-676e-17bd-4229213a2b6f
+video_metadata:
+  youtube_id: null
 ---
 
 Final Public Oral Presentations by _8.13 Experimental Physics I_ Students
