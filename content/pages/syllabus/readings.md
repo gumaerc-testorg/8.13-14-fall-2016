@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes required and recommended texts, other useful texts,
+  reference articles and equipment manuals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -7,6 +9,8 @@ parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Required and Recommended Texts
 uid: 2fe61734-9df6-5bf3-7a9c-ca6e1b5f4bd9
+video_metadata:
+  youtube_id: null
 ---
 
 Required Readings
@@ -16,9 +20,9 @@ Bevington, Philip R., and D. Keith Robinson. _Data Reduction and Error Analysis 
 
 _Experimental Lab Manuals_ by the Junior Lab staff (available inside every Experiment page)
 
-_[Ethics in Science and Education]({{< baseurl >}}/pages/syllabus/ethics)_ by the Junior Lab staff 
+_{{% resource_link 6c3edbd8-8f2c-3782-ac65-107cfbe910a2 "Ethics in Science and Education" %}}_ by the Junior Lab staff 
 
-_[Laboratory Safety and Regulations in Junior Lab]({{< baseurl >}}/pages/safety-in-junior-lab)_ by the Junior Lab staff 
+_{{% resource_link 29d99fa0-479e-dbce-b118-6e508eb8b5a3 "Laboratory Safety and Regulations in Junior Lab" %}}_ by the Junior Lab staff 
 
 Recommended Texts
 -----------------

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []
@@ -9,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 title: Student Insights
 uid: 7bad2224-0cbc-dcad-cff8-911c9e051922
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 89411863-4532-bb6e-42ac-3c03bd50f632

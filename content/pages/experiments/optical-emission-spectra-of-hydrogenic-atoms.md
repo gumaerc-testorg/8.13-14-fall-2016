@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: Measurement of the Balmer lines of atomic hydrogen and the fine structure
+  of sodium lines; determination of the mass of the deuteron from the isotope shift.
+  A high resolution monochromator with a wavelength range from 2500 to 15,000 angstroms
+  in first and second order is used to study the Balmer lines of hydrogen and the
+  more complex hydrogenic spectrum of sodium, using the mercury spectrum as the wavelength
+  calibrator.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +13,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Optical Emission Spectra of Hydrogenic Atoms
 uid: b48d711e-6977-c6b6-a6c9-04ad05b71041
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on a table.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/optical-emission-spectra-of-hydrogenic-atoms/L17_2.jpg)
+{{< resource "fb77390f-b3e5-4155-8e35-819c60fcdb7b" >}}
 
 Optical Emission Spectra experiment equipment.
 
@@ -21,7 +29,7 @@ This experiment is an exercise in optical spectroscopy and a study of the spectr
 Lab Guide
 ---------
 
-[Optical Emission Spectra of Hydrogenic Atoms Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp17)
+{{% resource_link 575d46ea-8f34-b995-7891-f5bbae4aa1fe "Optical Emission Spectra of Hydrogenic Atoms Lab Guide (PDF)" %}}
 
 References
 ----------

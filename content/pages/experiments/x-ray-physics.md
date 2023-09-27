@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section talks about production and absorption of X-rays; Moseley''s
+  law; fine structure of the K lines of the elements, etc. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +9,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: X-Ray Physics
 uid: 49f2e6e7-74c8-6a6f-4e5a-f744e6c5818f
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![A room with measuring instruments in it.]({{< resource_file e656a0c8-f396-9047-699a-48dd7061b1b8 >}})
+{{< resource e656a0c8-f396-9047-699a-48dd7061b1b8 >}}
 
 A cooled intrinsic germanium solid-state X-ray detector.
 
@@ -23,7 +27,7 @@ The energies of the K x-ray lines of numerous elements are measured and compared
 Lab Guide
 ---------
 
-[X-Ray Physics Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp31)
+{{% resource_link 117b61a7-07a6-de75-4e07-b60c28b38665 "X-Ray Physics Lab Guide (PDF)" %}}
 
 References
 ----------

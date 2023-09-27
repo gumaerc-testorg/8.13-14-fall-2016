@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "The M\xF6ssbauer effect and some of its applications in ultra-high resolution\
+  \ gamma-ray spectroscopy are explored. The Zeeman splittings, quadrupole splittings,\
+  \ and chemical shifts of the 14 keV M\xF6ssbauer gamma-ray line emitted in the recoilless\
+  \ decay of the first excited state of the 57Fe nucleus are measured in iron and\
+  \ in various iron compounds and alloys."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +12,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: "M\xF6ssbauer Spectroscopy"
 uid: f93c78b6-ced8-d63a-326f-cce14d6b843d
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/moessbauer-spectroscopy/L13_2.jpg)
+{{< resource "fdfa9474-dbc3-0744-8a3e-298b47799606" >}}
 
 Mössbauer spectroscopy experiment equipment.
 
@@ -25,7 +32,7 @@ The natural line widths of the 14 keV transitions are determined from measuremen
 Lab Guide
 ---------
 
-[Mössbauer Spectroscopy Lab Guide (PDF - 1MB)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp13)
+{{% resource_link 48e831b6-58c4-acd7-8c3e-63ab31789ff2 "Mössbauer Spectroscopy Lab Guide (PDF - 1MB)" %}}
 
 References
 ----------
@@ -53,4 +60,4 @@ King, J., ed. _Mössbauer Effect: Selected Reprints_. New York: American Instit
 Selected Resource
 -----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mössbauer Spectroscopy Schematic (PDF)]({{< baseurl >}}/resources/mossbauer_amplifier)
+{{% resource_link 74ebd694-6959-9188-9c03-39f1f326e1cb "Mössbauer Spectroscopy Schematic (PDF)" %}}

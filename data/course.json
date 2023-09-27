@@ -14,9 +14,6 @@
   "legacy_uid": "d5cba90f-7365-875b-c56b-f73ec7968e3b",
   "instructors": {
     "content": [
-      "ab4c246d-ac2e-379b-b7d3-0fbf45a6dfbd",
-      "30f2f127-1097-0f7f-10cc-0506be053cbd",
-      "629dcaad-3541-fa06-6def-d8e41bb67e9b",
       "de1a3f2c-6cec-7107-a00a-b69ca71460cd"
     ],
     "website": "ocw-www"
@@ -36,7 +33,10 @@
     "content": "5019ec79-755c-edbf-2310-67ce28ddcfc4",
     "website": "8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017"
   },
-  "learning_resource_types": [],
-  "site_uid": "559ec2ac-f521-405e-9571-7d92e1753ff8",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "71644598-a1c3-4121-b088-bc700c809d69",
+  "site_short_id": "8.13-14-fall-2016",
   "title": "Course Metadata"
 }

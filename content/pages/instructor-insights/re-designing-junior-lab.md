@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section Dr. Sean Robinson discusses the course re-design that\
+  \ shifted how instructors and students experience \u201CJunior Lab.\u201D"
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 title: "Re-Designing \u201CJunior Lab\u201D"
 uid: 30d61f99-17e2-40c5-9220-a191ea9b7ac9
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Sean Robinson discusses the course re-design that has fundamentally shifted how students experience Junior Lab._
@@ -23,7 +27,7 @@ The primary teaching method we used is what's commonly known as "sink or swim." 
 
 The drawback to that approach was how much time students were spending on those tasks and how much stress and anxiety they were causing students. To be certain, we want our students to struggle with our course material. We want them to have know that they have worked hard and they have been successful at something difficult. That, we believe, is a very important part of what constitutes an MIT physics education, and an MIT education in general.
 
-![Measuring instruments on tables. A fan in the middle of the instruments.]({{< resource_file 5396566d-9425-1d30-ad2f-06593e975590 >}})
+{{< resource 5396566d-9425-1d30-ad2f-06593e975590 >}}
 
 Relativistic dynamics experiment equipment.
 

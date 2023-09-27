@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Elastic and inelastic scattering of electrons from atoms. The excitation
+  potential and ionization potential of the mercury atom are determined from measurements
+  of the critical accelerating potentials at which electrons lose energy by inelastic
+  scattering in mercury vapor.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +11,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: The Franck-Hertz Experiment
 uid: 4adf3b76-1be8-0bfe-61c0-e48e92d36eb3
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/the-franck-hertz-experiment/L7_3.jpg)
+{{< resource "1ae21d54-f3a9-a6cd-6619-a3f0d109b963" >}}
 
 The Franck-Hertz experiment equipment.
 
@@ -21,7 +27,7 @@ These experiments measure two phenomena encountered in collisions between electr
 Lab Guide
 ---------
 
-[The Franck-Hertz Experiment Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp7)
+{{% resource_link afdfff9f-8bbe-0672-39af-19c8b178a764 "The Franck-Hertz Experiment Lab Guide (PDF)" %}}
 
 Franck-Hertz Experiment References
 ----------------------------------

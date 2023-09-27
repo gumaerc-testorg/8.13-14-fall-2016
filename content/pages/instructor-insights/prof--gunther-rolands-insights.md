@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []
@@ -9,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 title: Prof. Gunther Roland's Insights
 uid: 922d7381-664d-46c5-dc1b-cfa2cf15f549
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 90b27975-5a19-743e-9ba5-107236616176

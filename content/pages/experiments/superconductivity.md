@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Several of the phenomena of superconductivity are observed in three experiments
+  carried out in a liquid helium cryostat. The transition to the superconducting state
+  of each of several bulk samples of Type I and II superconductors is observed in
+  measurements of the exclusion of magnetic field from samples as the temperature
+  is gradually reduced by the flow of cold gas from boiling helium.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +12,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Superconductivity
 uid: 88cf3df1-af6e-bbee-2d0c-2dbad78e0b62
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/superconductivity/L39.jpg)
+{{< resource "29814159-d122-ddbb-bf11-baca1a847123" >}}
 
 Superconductivity experiment equipment.
 
@@ -21,7 +28,7 @@ Several phenomena associated with superconductivity are observed in three experi
 Lab Guide
 ---------
 
-[Superconductivity Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp39)
+{{% resource_link ec45c303-0c7e-c2ba-0f05-37ab84d09c17 "Superconductivity Lab Guide (PDF)" %}}
 
 References
 ----------
@@ -48,7 +55,7 @@ American Association of Physics Teachers. _Superconductivity: Selected Reprints
 
 Feynman, Richard P. "A Seminar on Superconductivity." Chapter 21 in _Feynman Lectures on Physics._ Vol. III. Reading, MA: Addison-Wesley, 1965. ISBN:9780201020106.
 
-Parks, R. D. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quantum Effects in Superconductors (PDF)](https://www.nature.com/scientificamerican/journal/v213/n4/pdf/scientificamerican1065-57.pdf)." _Scientific American_ 213, no. 4 (October 1965): 57-67.
+Parks, R. D. "[Quantum Effects in Superconductors (PDF)](https://www.nature.com/scientificamerican/journal/v213/n4/pdf/scientificamerican1065-57.pdf)." _Scientific American_ 213, no. 4 (October 1965): 57-67.
 
 Bardeen, John. Nobel Prize Lecture, "[Electron-Phonon Interactions and Superconductivity](https://www.nobelprize.org/prizes/physics/1972/bardeen/lecture/)." (1972).
 
@@ -77,7 +84,7 @@ Josephson Effects References
 
 Josephson, B. D. "Coupled Superconductors." _Reviews of Modern Physics_ 36, no. 1 (1963): 216-220.
 
-Langenberg, D. N., D. J. Scalapino, and B. N. Taylor. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Josephson Effects (PDF)](https://www.nature.com/scientificamerican/journal/v214/n5/pdf/scientificamerican0566-30.pdf)." _Scientific American_ 214, no. 5 (May 1966): 30-39.
+Langenberg, D. N., D. J. Scalapino, and B. N. Taylor. "[The Josephson Effects (PDF)](https://www.nature.com/scientificamerican/journal/v214/n5/pdf/scientificamerican0566-30.pdf)." _Scientific American_ 214, no. 5 (May 1966): 30-39.
 
 Richards, P. L., S. Shapiro, and C. C. Grimes. "[Student Laboratory Demonstration of Flux Quantization and the Josephson Effect in Superconductors](https://aapt.scitation.org/doi/10.1119/1.1975091)." _American Journal of Physics_ 36, no. 8 (August 1968): 690-697.
 

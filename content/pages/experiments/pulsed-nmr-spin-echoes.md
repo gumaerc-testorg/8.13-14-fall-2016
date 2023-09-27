@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Magnetic resonances of protons in various substances are studied by the
+  techniques of polsed NMR and the measurement of spin echoes. Various substances
+  containing protons are placed in a uniform magnetic field and subjected to polses
+  of a transverse 5 MHz magnetic field in near resonance with the Larmor precession
+  frequency of the protons.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +12,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: 'Pulsed Nuclear Magnetic Resonance: Spin Echoes'
 uid: cc00ee06-833e-3831-7fae-8048ce1568e7
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/pulsed-nmr-spin-echoes/L12.jpg)
+{{< resource "7bf23510-1e64-d600-af46-9bf10ab571dc" >}}
 
 Spin echoes experiment equipment.
 
@@ -23,7 +30,7 @@ The spin-lattice and spin-spin relaxation time constants are determined from mea
 Lab Guide
 ---------
 
-[Pulsed Nuclear Magnetic Resonance: Spin Echoes Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp12)
+{{% resource_link 0a406a60-f131-9742-43ac-7610418388e0 "Pulsed Nuclear Magnetic Resonance: Spin Echoes Lab Guide (PDF)" %}}
 
 Experiment References
 ---------------------
@@ -93,4 +100,4 @@ Freeman, Ray. "Spin Lattice Relaxation." _A Handbook of Nuclear Magnetic Resonan
 Selected Resource
 -----------------
 
-[A Pulse NMR experiment for an undergraduate physics laboratory (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17-pulsed-nmr)
+{{% resource_link 2532db08-f3ab-0b71-c0db-e737b14cf4f0 "A Pulse NMR experiment for an undergraduate physics laboratory (PDF)" %}}

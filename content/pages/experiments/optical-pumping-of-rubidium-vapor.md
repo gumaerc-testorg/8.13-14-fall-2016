@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes overview and guides for the lab about optical pumping
+  of rubidium vapor.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +9,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Optical Pumping of Rubidium Vapor
 uid: 221808c6-1c60-8ff6-d63c-6012f46f649b
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/optical-pumping-of-rubidium-vapor/L11_4.jpg)
+{{< resource "9be5fe4b-3719-8e2a-7ba7-72424a571a93" >}}
 
 Optical Pumping experiment equipment.
 
@@ -25,14 +29,14 @@ In the second part of the experiment the direction of magnetization is alternate
 Lab Guide
 ---------
 
-[Optical Pumping of Rubidium Vapor Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp11)
+{{% resource_link 845a424f-5d94-a9d6-43a0-c2aa15bccde2 "Optical Pumping of Rubidium Vapor Lab Guide (PDF)" %}}
 
 References
 ----------
 
 Bell, William E., and Arnold L. Bloom. "[Optical Detection of Magnetic Resonance in Alkali Metal Vapor](https://journals.aps.org/pr/abstract/10.1103/PhysRev.107.1559)." _The Physical Review_ 107, no. 6 (1957): 1559-1565.
 
-Bloom, Arnold. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optical Pumping (PDF)](https://www.nature.com/scientificamerican/journal/v203/n4/pdf/scientificamerican1060-72.pdf)." _Scientific American_ (October 1960).
+Bloom, Arnold. "[Optical Pumping (PDF)](https://www.nature.com/scientificamerican/journal/v203/n4/pdf/scientificamerican1060-72.pdf)." _Scientific American_ (October 1960).
 
 De Zafra, R. L. "[Optical Pumping](https://aapt.scitation.org/doi/10.1119/1.1935926)." _American Journal of Physics_ 28 (1960): 646.
 

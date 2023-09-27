@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section talks about the importance of maintaining a laboratory notebook
+  and requirements for the notebook.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Requirements for Experimental Notebooks
 uid: b6c21d9d-b22c-72ff-13a3-232d88222fa2
+video_metadata:
+  youtube_id: null
 ---
 
 Maintaining a laboratory notebook is one of the most important skills you will acquire in Junior Lab. A good notebook is essential when you begin to develop papers or oral presentations summarizing your experimental efforts. A detailed, real-time narrative that includes experimental schematics, plots of raw data, and details of your analysis will enable you to receive quick feedback and assistance from peers, lab staff, and instructors.

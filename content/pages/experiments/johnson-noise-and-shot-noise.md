@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Determination of Boltzmann's constant, k and the centigrade temperature
+  of absolute zero from measurements of Johnson noise. Determination of the average
+  charge, e, of the electron from measurements of electrical shot noise.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,12 +10,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Johnson Noise and Shot Noise
 uid: b579e8df-ec61-2cb7-e6a4-dae345aa3b4c
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/johnson-noise-and-shot-noise/L43_2.jpg)
+{{< resource "d06789ac-35c9-dc30-7824-e01619ec32c6" >}}
 
 Johnson noise and shot noise experiment equipment.
 
@@ -21,7 +26,7 @@ In electronic measurements, one observes “signals,” which must be distinctly
 Lab Guide
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Johnson Noise and Shot Noise Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp43)
+{{% resource_link 26a060b7-d4f0-e546-a3f9-648bababf994 "Johnson Noise and Shot Noise Lab Guide (PDF)" %}}
 
 References
 ----------
