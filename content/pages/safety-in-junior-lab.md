@@ -53,7 +53,7 @@ The ampere is a large unit of current. The details of an injury will depend not 
 
 ## Radiation Safety
 
-Radiation safety at MIT is under the authority of the [Radiation Protection Program](https://ehs.mit.edu/site/radiation-protection/about-radiation-protection-program). Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
+Radiation safety at MIT is under the authority of the [Radiation Protection Program](https://ehs.mit.edu/radiological/). Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Experiment

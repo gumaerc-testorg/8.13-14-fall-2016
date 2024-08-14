@@ -12,7 +12,7 @@ video_metadata:
 ---
 ## Physics Resources
 
-[CRC Handbook of Chemistry and Physics](http://hbcponline.com/faces/contents/ContentsSearch.xhtml)
+[CRC Handbook of Chemistry and Physics (PDF)](https://edisciplinas.usp.br/pluginfile.php/4557662/mod_resource/content/1/CRC%20Handbook%20of%20Chemistry%20and%20Physics%2095th%20Edition.pdf)
 
 [NIST Physics Data](http://physics.nist.gov/PhysRefData/contents.html)
 
