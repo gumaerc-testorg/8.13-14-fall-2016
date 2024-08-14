@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/1181e0e068a935a6066192580c02dbc6_JLExp_12.jpg
+file_size: 57124
 file_type: image/jpeg
 image_metadata:
   caption: ''
