@@ -2,6 +2,7 @@
 content_type: page
 description: This section provides links to physics resources and other advanced physics
   labs.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -9,17 +10,15 @@ uid: c0fd6569-ea2b-f085-29bb-f8817e92b3bb
 video_metadata:
   youtube_id: null
 ---
+## Physics Resources
 
-Physics Resources
------------------
-
-[CRC Handbook of Chemistry and Physics](http://hbcponline.com/faces/contents/ContentsSearch.xhtml)
+[CRC Handbook of Chemistry and Physics (PDF)](https://edisciplinas.usp.br/pluginfile.php/4557662/mod_resource/content/1/CRC%20Handbook%20of%20Chemistry%20and%20Physics%2095th%20Edition.pdf)
 
 [NIST Physics Data](http://physics.nist.gov/PhysRefData/contents.html)
 
 [Table of the Isotopes](http://www.wiley.com/legacy/products/subject/physics/toi/)
 
-[National Nuclear Data Center](http://www.nndc.bnl.gov/index.jsp)
+[National Nuclear Data Center](https://www.nndc.bnl.gov/)
 
 [WebElements Periodic Table](http://www.webelements.com/)
 
@@ -37,8 +36,7 @@ Physics Resources
 
 [American Institute of Physics](http://www.aip.org/)
 
-The Advanced Laboratory Physics Association (ALPhA)
----------------------------------------------------
+## The Advanced Laboratory Physics Association (ALPhA)
 
 [The Advanced Laboratory Physics Association (ALPhA)](https://advlab.org/) was formed in 2007 to provide communication and interaction among the faculty and staff who are involved in advanced laboratory physics instruction at colleges and universities in the United States and the rest of the world.
 

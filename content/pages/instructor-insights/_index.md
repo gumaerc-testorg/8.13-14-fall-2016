@@ -17,49 +17,49 @@ video_metadata:
 
 **Professor Janet Conrad**
 
-- {{% resource_link df6b715d-9341-c3b8-4cef-761961cb8f87 "Meet Professor Janet Conrad" %}}
-- {{% resource_link f47d9083-5f45-fc7d-1427-d2954da92875 "How Students Develop as Physicists Over the Course of the Semester" %}}
-- {{% resource_link 44c58d5f-55b0-535b-05dd-7529285d9ce2 "Creating a Supportive Learning Environment" %}}
-- {{% resource_link e9e05121-7962-eec3-e0f2-3e29d9bf95b5 "Teaching as Coaching" %}}
-- {{% resource_link 6e6faa0c-880a-cd58-8c91-c488355503d8 "Assessing Learning through Student Talks" %}}
-- {{% resource_link bce99f3a-e956-a22f-6fbb-cdc524602914 "On Grading Student Papers" %}}
-- {{% resource_link 087e3e77-fe1a-57cb-7514-bd9240dec4ef "Faster than the Speed of Light: A Future Junior Lab Experiment" %}}
-- {{% resource_link 1cae39e4-1bdc-4e7a-7b06-990994a717fb "Improving Early Physics Education" %}}
+- {{% resource_link "df6b715d-9341-c3b8-4cef-761961cb8f87" "Meet Professor Janet Conrad" %}}
+- {{% resource_link "f47d9083-5f45-fc7d-1427-d2954da92875" "How Students Develop as Physicists Over the Course of the Semester" %}}
+- {{% resource_link "44c58d5f-55b0-535b-05dd-7529285d9ce2" "Creating a Supportive Learning Environment" %}}
+- {{% resource_link "e9e05121-7962-eec3-e0f2-3e29d9bf95b5" "Teaching as Coaching" %}}
+- {{% resource_link "6e6faa0c-880a-cd58-8c91-c488355503d8" "Assessing Learning through Student Talks" %}}
+- {{% resource_link "bce99f3a-e956-a22f-6fbb-cdc524602914" "On Grading Student Papers" %}}
+- {{% resource_link "087e3e77-fe1a-57cb-7514-bd9240dec4ef" "Faster than the Speed of Light: A Future Junior Lab Experiment" %}}
+- {{% resource_link "1cae39e4-1bdc-4e7a-7b06-990994a717fb" "Improving Early Physics Education" %}}
 
 **Professor Gunther Roland**
 
-- {{% resource_link 90b27975-5a19-743e-9ba5-107236616176 "Meet Professor Gunther Roland" %}}
-- {{% resource_link d02f7004-0dcf-e1e4-880b-a5ae8d6a73ad "Tips for Educators" %}}
-- {{% resource_link 1d81a271-48b0-7b36-135e-f0ef01c25b3e "Unique Aspects of the Course" %}}
-- {{% resource_link 14409fe7-4de8-778e-dde7-100d31fe981f "Pedagogical Iteration" %}}
-- {{% resource_link 309e50f8-5fff-4007-3d58-b5e826ad4b11 "Developing Students’ Science Communication Skills" %}}
-- {{% resource_link f29b41f2-eb7d-6c1f-cba1-02fe306c390b "The Role of Teamwork in Junior Lab" %}}
-- {{% resource_link fdda27eb-7839-ad55-0ddf-c8f42f7c8747 "Flipping the Classroom" %}}
-- {{% resource_link d58aef66-dfe4-56a1-b522-2c165c4bb6ba "An Invitation to New Students" %}}
+- {{% resource_link "90b27975-5a19-743e-9ba5-107236616176" "Meet Professor Gunther Roland" %}}
+- {{% resource_link "d02f7004-0dcf-e1e4-880b-a5ae8d6a73ad" "Tips for Educators" %}}
+- {{% resource_link "1d81a271-48b0-7b36-135e-f0ef01c25b3e" "Unique Aspects of the Course" %}}
+- {{% resource_link "14409fe7-4de8-778e-dde7-100d31fe981f" "Pedagogical Iteration" %}}
+- {{% resource_link "309e50f8-5fff-4007-3d58-b5e826ad4b11" "Developing Students’ Science Communication Skills" %}}
+- {{% resource_link "f29b41f2-eb7d-6c1f-cba1-02fe306c390b" "The Role of Teamwork in Junior Lab" %}}
+- {{% resource_link "fdda27eb-7839-ad55-0ddf-c8f42f7c8747" "Flipping the Classroom" %}}
+- {{% resource_link "d58aef66-dfe4-56a1-b522-2c165c4bb6ba" "An Invitation to New Students" %}}
 
 **Dr. Sean Robinson**
 
-- {{% resource_link 6f0f878f-ad3c-c434-0a79-88f003ec5324 "Meet Dr. Sean Robinson" %}}
-- {{% resource_link a967ba5e-ded4-5b0f-8551-d3ca797ea996 "Student Challenge #1: Unlearning How to do Experiments" %}}
-- {{% resource_link 3beedc99-2344-1d94-3f66-543717b42dd1 "Student Challenge #2: Encountering A Multidimensional Learning Surface" %}}
-- {{% resource_link c75b8330-cc68-410e-369a-ef2fcaf1e95f "Student Challenge #3: Learning Data Analysis" %}}
-- {{% resource_link e14049a5-6549-b1d5-c0c7-07ca67648adb "Helping Students Cultivate Identities as Scientists" %}}
-- {{% resource_link cd4da3b5-6000-cb5d-2819-772ca3508f90 "Providing Science Communication Practice" %}}
-- {{% resource_link de7c11d3-82cc-d6dd-a0cf-8476259cbe51 "Eliciting Cognitive Dissonance" %}}
-- {{% resource_link dfefc37d-be8f-873c-093a-d423c1fe1b15 "Flipping the Classroom" %}}
-- {{% resource_link 62caea28-9730-55ce-427f-027cd505c63d "An Active Learning Example" %}}
-- {{% resource_link 19e68c05-d2a1-932c-f1ce-68641cb74985 "Developing New Experiments: Behind-the-Scenes" %}}
+- {{% resource_link "6f0f878f-ad3c-c434-0a79-88f003ec5324" "Meet Dr. Sean Robinson" %}}
+- {{% resource_link "a967ba5e-ded4-5b0f-8551-d3ca797ea996" "Student Challenge #1: Unlearning How to do Experiments" %}}
+- {{% resource_link "3beedc99-2344-1d94-3f66-543717b42dd1" "Student Challenge #2: Encountering A Multidimensional Learning Surface" %}}
+- {{% resource_link "c75b8330-cc68-410e-369a-ef2fcaf1e95f" "Student Challenge #3: Learning Data Analysis" %}}
+- {{% resource_link "e14049a5-6549-b1d5-c0c7-07ca67648adb" "Helping Students Cultivate Identities as Scientists" %}}
+- {{% resource_link "cd4da3b5-6000-cb5d-2819-772ca3508f90" "Providing Science Communication Practice" %}}
+- {{% resource_link "de7c11d3-82cc-d6dd-a0cf-8476259cbe51" "Eliciting Cognitive Dissonance" %}}
+- {{% resource_link "dfefc37d-be8f-873c-093a-d423c1fe1b15" "Flipping the Classroom" %}}
+- {{% resource_link "62caea28-9730-55ce-427f-027cd505c63d" "An Active Learning Example" %}}
+- {{% resource_link "19e68c05-d2a1-932c-f1ce-68641cb74985" "Developing New Experiments: Behind-the-Scenes" %}}
 
 **Atissa Banuazizi**
 
-- {{% resource_link 454b504a-99a5-c8c7-cb1f-6c6f4a48dc55 "Meet Atissa Banuazizi" %}}
-- {{% resource_link 9cb8ad8f-1940-150c-980c-ddd4c79371a3 "The Role of Iteration in Developing Oral Communication Skills" %}}
-- {{% resource_link a926fe4f-e453-09ee-6a0e-03cb015b8ea7 "Supporting Students with Individual Conferences" %}}
-- {{% resource_link 52f10d2c-cd9c-36b4-bcb9-b94f31a23e06 "Using the Concept of Metadiscourse to Improve Students’ Oral Presentations" %}}
-- {{% resource_link f31c7ea4-2861-7074-b112-e917bbbb543e "Positioning Communication Instructors as Coaches, Not Graders" %}}
-- {{% resource_link eec7b249-96b5-4ace-9bee-e30b22de1f47 "Tips for Partnering with Technical Faculty" %}}
-- {{% resource_link cd6475a8-4f36-abba-c6d8-66d8f55d3a5c "Building Up to an Audience" %}}
-- {{% resource_link f3257bc1-69df-0c59-5578-e3de46fc2d76 "Science is Communication" %}}
+- {{% resource_link "454b504a-99a5-c8c7-cb1f-6c6f4a48dc55" "Meet Atissa Banuazizi" %}}
+- {{% resource_link "9cb8ad8f-1940-150c-980c-ddd4c79371a3" "The Role of Iteration in Developing Oral Communication Skills" %}}
+- {{% resource_link "a926fe4f-e453-09ee-6a0e-03cb015b8ea7" "Supporting Students with Individual Conferences" %}}
+- {{% resource_link "52f10d2c-cd9c-36b4-bcb9-b94f31a23e06" "Using the Concept of Metadiscourse to Improve Students’ Oral Presentations" %}}
+- {{% resource_link "f31c7ea4-2861-7074-b112-e917bbbb543e" "Positioning Communication Instructors as Coaches, Not Graders" %}}
+- {{% resource_link "eec7b249-96b5-4ace-9bee-e30b22de1f47" "Tips for Partnering with Technical Faculty" %}}
+- {{% resource_link "cd6475a8-4f36-abba-c6d8-66d8f55d3a5c" "Building Up to an Audience" %}}
+- {{% resource_link "f3257bc1-69df-0c59-5578-e3de46fc2d76" "Science is Communication" %}}
 
 *Below, Dr. Sean Robinson discusses the course re-design that shifted how instructors and students experience Junior Lab.*
 
@@ -85,7 +85,7 @@ Junior Lab also requires that students maintain harmonious and fair relationship
 
 I was also very fortunate to have some really driven students in my class. One student’s lab partner left the class during the first half of the semester. I volunteered to help her by filling the role of a partner. While working with her on one of the experiments, I got very curious myself, and ended up writing a detailed simulation with graphic visualization for the experiment! We tested the simulation extensively with the experimental data. After making serval updates to the code I had written, we were able to get excellent agreement between the simulation and the data. This was exciting, because it was unprecedented.
 
-I also supported another student in making similar simulations. This student was so curious and dedicated that I decided to continue working with him even after Junior Lab. Since he was working in the same field of particle physics and found my research at the Center for Theoretical Physics exciting, I realized we would make a great team. I asked my advisor to let him work with us on one of our research projects, and since then, he's been working with me through the MIT [Undergraduate Research Opportunities Program](http://uaap.mit.edu/research-exploration/urop).
+I also supported another student in making similar simulations. This student was so curious and dedicated that I decided to continue working with him even after Junior Lab. Since he was working in the same field of particle physics and found my research at the Center for Theoretical Physics exciting, I realized we would make a great team. I asked my advisor to let him work with us on one of our research projects, and since then, he's been working with me through the MIT [Undergraduate Research Opportunities Program](https://urop.mit.edu/).
 
 We have come a long way since he joined and we plan to finish this project with a publication, on which this student will be a co-author. In fact, it’s now his thesis topic!
 
@@ -105,26 +105,26 @@ There are students in Junior Lab so talented that every second spent attending t
 
 **Saarik Kalia & Efetobore (Toby) Tasker**
 
-- {{% resource_link 89411863-4532-bb6e-42ac-3c03bd50f632 "Keys to Success in the Course: Perseverance and Data Analysis" %}}
-- {{% resource_link e771adc9-82f0-e8af-4466-33d7e5c30bc8 "Tips for Educators" %}}
+- {{% resource_link "89411863-4532-bb6e-42ac-3c03bd50f632" "Keys to Success in the Course: Perseverance and Data Analysis" %}}
+- {{% resource_link "e771adc9-82f0-e8af-4466-33d7e5c30bc8" "Tips for Educators" %}}
 
 **Tal Scully**
 
-- {{% resource_link c9c5a9d0-0153-4568-140a-9d833897b638 "Junior Lab Offers A Wide Range of Experiments" %}}
-- {{% resource_link e936cc86-8829-193e-512d-32cbb92dca03 "Advice for Students: Be Persistent" %}}
-- {{% resource_link 424d8191-23f3-7ee9-abab-10d4a4347d9b "Advice for Women in Physics: Be Confident" %}}
+- {{% resource_link "c9c5a9d0-0153-4568-140a-9d833897b638" "Junior Lab Offers A Wide Range of Experiments" %}}
+- {{% resource_link "e936cc86-8829-193e-512d-32cbb92dca03" "Advice for Students: Be Persistent" %}}
+- {{% resource_link "424d8191-23f3-7ee9-abab-10d4a4347d9b" "Advice for Women in Physics: Be Confident" %}}
 
 **Christina Wang**
 
-- {{% resource_link 20fffd50-9699-8ac0-578f-22c7b1c8404e "Take this Course, Even if you Want to be a Theoretical Physicist" %}}
-- {{% resource_link 9f1c6573-5b11-e085-5a89-f76c11f3ae05 "Time Management Tip: Don’t Procrastinate!" %}}
+- {{% resource_link "20fffd50-9699-8ac0-578f-22c7b1c8404e" "Take this Course, Even if you Want to be a Theoretical Physicist" %}}
+- {{% resource_link "9f1c6573-5b11-e085-5a89-f76c11f3ae05" "Time Management Tip: Don’t Procrastinate!" %}}
 
 **Henry Shackleton**
 
-- {{% resource_link 2f48684d-523a-d37f-4175-ed75ed9992cf "Advice about Teamwork: Take Time to Verify Your Partner’s Work" %}}
-- {{% resource_link 309ff420-a55f-3ff6-80f3-3d02b9e6b4dd "On the Flipped Classroom Format" %}}
-- {{% resource_link e8cda024-468d-835d-fae4-60dd4410eae2 "A Space to Figure Things Out" %}}
-- {{% resource_link 0aa8802e-3126-2b61-716a-e4824029bc9c "Tips for Educators" %}}
+- {{% resource_link "2f48684d-523a-d37f-4175-ed75ed9992cf" "Advice about Teamwork: Take Time to Verify Your Partner’s Work" %}}
+- {{% resource_link "309ff420-a55f-3ff6-80f3-3d02b9e6b4dd" "On the Flipped Classroom Format" %}}
+- {{% resource_link "e8cda024-468d-835d-fae4-60dd4410eae2" "A Space to Figure Things Out" %}}
+- {{% resource_link "0aa8802e-3126-2b61-716a-e4824029bc9c" "Tips for Educators" %}}
 
 *Below, Talia Weiss responds to questions about her experiences as a junior physics major enrolled in* 8.13 Experimental Physics I.
 
