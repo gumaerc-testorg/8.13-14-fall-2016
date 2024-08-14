@@ -31,7 +31,7 @@ Beyond the specific safety procedures listed below, you must also obey the follo
 - Treat radioactive sources according to the [ALARA principle](https://www.nrc.gov/reading-rm/basic-ref/glossary/alara.html), as per your training.
 - Obey state regulations and Junior Lab practices on access and tracking of radioactive sources, as per your training.
 
-On the first day of 8.13 (Experimental Physics I), Junior Lab students receive a general safety discussion, a lab tour, and a formal state-mandated training in the use of sealed sources of ionizing radiation from a member of [MIT’s Radiation Protection Program](https://ehs.mit.edu/radiological/#:~:text=The%20Radiation%20Protection%20Program%20(RPP)%20provides%20a%20safe%20working%20area,and%20breakthrough%20research%20to%20continue.). This training is required for work in both 8.13 and 8.14 (Experimental Physics II). Students who will be performing experiments using biological materials, Class 3b or Class 4 lasers, or requiring access to the MIT Nuclear Reactor facility will require further formal training from [MIT’s Office of Environment, Health and Safety (EHS)](https://ehs.mit.edu/site/). The Junior Lab staff will provide information on the required training as needed.
+On the first day of 8.13 (Experimental Physics I), Junior Lab students receive a general safety discussion, a lab tour, and a formal state-mandated training in the use of sealed sources of ionizing radiation from a member of MIT’s Radiation Protection Program. This training is required for work in both 8.13 and 8.14 (Experimental Physics II). Students who will be performing experiments using biological materials, Class 3b or Class 4 lasers, or requiring access to the MIT Nuclear Reactor facility will require further formal training from [MIT’s Office of Environment, Health and Safety (EHS)](https://ehs.mit.edu/site/). The Junior Lab staff will provide information on the required training as needed.
 
 {{< anchor "chemical" >}}{{< /anchor >}}
 
@@ -53,7 +53,7 @@ The ampere is a large unit of current. The details of an injury will depend not 
 
 ## Radiation Safety
 
-Radiation safety at MIT is under the authority of the [Radiation Protection Program](https://ehs.mit.edu/site/radiation-protection/about-radiation-protection-program). Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
+Radiation safety at MIT is under the authority of the [Radiation Protection Program](https://ehs.mit.edu/radiological/). Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Experiment
