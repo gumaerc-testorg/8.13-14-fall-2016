@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/da48f264b877f4aee5cc69ba22a928fe_Raman_spectrum.png
+file: /ol-ocw-studio-app/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/da48f264b877f4aee5cc69ba22a928fe_Raman_spectrum.png
 file_size: 5834
 file_type: image/png
 image_metadata:
