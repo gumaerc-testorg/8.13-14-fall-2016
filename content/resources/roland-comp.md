@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/cc531ff27ea976444c117059393547da_Roland-comp.png
+file: /ol-ocw-studio-app/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/cc531ff27ea976444c117059393547da_Roland-comp.png
 file_size: 42173
 file_type: image/png
 image_metadata:

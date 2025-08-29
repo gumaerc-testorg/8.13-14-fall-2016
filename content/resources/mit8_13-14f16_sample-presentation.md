@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/ce95c6c48db4194b7b257a06174ec982_MIT8_13-14F16_sample-presentation.pdf
+file: /ol-ocw-studio-app/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/ce95c6c48db4194b7b257a06174ec982_MIT8_13-14F16_sample-presentation.pdf
 file_size: 693757
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/140a42859452b1dd08ab5a5ad7a4d633_lSUET2RmOh4.srt
+file: /ol-ocw-studio-app/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/140a42859452b1dd08ab5a5ad7a4d633_lSUET2RmOh4.srt
 file_size: 1513
 file_type: application/x-subrip
 learning_resource_types: []
