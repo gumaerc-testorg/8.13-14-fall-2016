@@ -47,42 +47,42 @@ Mihalas, Dimitri, and James Binney. "Galactic Rotation and the Spiral Structure 
 Shu, Frank H. "Our Galaxy: The Milky Way System." Chapter 12 in *The Physical Universe: An Introduction to Astronomy.* Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.   
 This reference gives a clear description of the interpretation of 21cm spectra in terms of the rotation curve of the Galaxy.
 
-Particle Data Group: [Astrophysical Constants and Parameters (PDF)](http://pdg.lbl.gov/2006/reviews/astrorpp.pdf)
+Particle Data Group: {{% resource_link "748ace6b-0a68-4043-8a17-fca6922113c0" "Astrophysical Constants and Parameters (PDF)" %}}
 
 Tuve, M. A., and S. Lundsager. "Velocity Structures in Hydrogen Profiles: A Sky Atlas of Neutral Hydrogen Emission." *Carnegie Institution of Washington Publication,* no. 630 (1973). ISBN: 9780872796416.
 
 Van de Hulst, H.C. "The Spiral Structure of the Outer Part of the Galactic System Derived from the Hydrogen Emission at 21cm Wave Length." *Bulletin of the Astronomical Institutes of the Netherlands*, Vol. 12, Number 452, (1954): 117-149.
 
-Kerr, F. J. "[The Large Scale Distribution of Hydrogen in the Galaxy](https://www.annualreviews.org/doi/10.1146/annurev.aa.07.090169.000351)." *Annu. Rev. Astro. Astrophys*, Vol. 7, Number 1 (1969): 39-66.
+Kerr, F. J. "{{% resource_link "e4fadab1-dc1c-40de-8bb5-8be06d73ed1f" "The Large Scale Distribution of Hydrogen in the Galaxy" %}}." *Annu. Rev. Astro. Astrophys*, Vol. 7, Number 1 (1969): 39-66.
 
-[Haystack Radio Telescope User's Manual (PDF)](http://www.haystack.mit.edu/edu/undergrad/srt/SRT%20Software/SRTManual.pdf)
+{{% resource_link "0c999770-dc18-4c69-a90b-9b257577800b" "Haystack Radio Telescope User's Manual (PDF)" %}}
 
 ## Selected Resources
 
-[Google Sky](http://www.google.com/sky)
+{{% resource_link "467fa2a7-d1d1-4d5b-9445-eca1b4af2e0d" "Google Sky" %}}
 
-[Sunrise/Sunset Calculator](http://www.srrb.noaa.gov/highlights/sunrise/sunrise.html)
+{{% resource_link "156d5c9f-b0c1-4174-8995-494b82af9b84" "Sunrise/Sunset Calculator" %}}
 
-[NOAA Solar Position Calculator](http://www.srrb.noaa.gov/highlights/sunrise/azel.html)
+{{% resource_link "ad5ab84e-5ab2-4818-ab0a-365ad960b87b" "NOAA Solar Position Calculator" %}}
 
-[Wikipedia Entry on the Milky Way Galaxy](http://en.wikipedia.org/wiki/Milky_way_galaxy)
+{{% resource_link "dc41ccb0-7a05-41d7-92e3-ef920dd337d9" "Wikipedia Entry on the Milky Way Galaxy" %}}
 
-[Cambridge University Press Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
+{{% resource_link "49c6ada1-b1df-4254-99a5-23739c553114" "Cambridge University Press Handbook of Space Astronomy and Astrophysics" %}}
 
 Kraus, John D. "Radio-Telescopy Antennas." in *Radio Astronomy*: 2nd Edition. Durham: Cygnus-Quasar Books, 1986. ISBN: 9781882484003.
 
 Kraus, John D. "Radio-Telescopy Recievers." in *Radio Astronomy*: 2nd Edition. Durham: Cygnus-Quasar Books, 1986. ISBN: 9781882484003.
 
-UC San Diego Center for Astrophysics & Space Sciences - [Prof. Gene Smith's Astronomy Tutorial](http://casswww.ucsd.edu/public/tutorial/MW.html)
+UC San Diego Center for Astrophysics & Space Sciences - {{% resource_link "8a054c08-ded9-41e9-a0b6-fffd860d707c" "Prof. Gene Smith's Astronomy Tutorial" %}}
 
 ## Small Radio Telescope Engineering Resources
 
-[Haystack Observatory's Small Radio Telescope Website](https://www.haystack.mit.edu/haystack-public-outreach/srt-the-small-radio-telescope-for-education/) is a very important site for students to investigate. Detailed block diagrams and schematics of the 21-cm receiver, mount and ground controller are available there.
+{{% resource_link "86c20261-1814-40e8-bf43-325dba91dada" "Haystack Observatory's Small Radio Telescope Website" %}} is a very important site for students to investigate. Detailed block diagrams and schematics of the 21-cm receiver, mount and ground controller are available there.
 
-[Electronic Noise Calibrator for the Small Radio Telescope (PDF)](http://www.haystack.mit.edu/edu/undergrad/SRT/receiver/calibrator_report.PDF) 
+{{% resource_link "a8f3c5c9-8b93-467b-b5d8-0467829899c5" "Electronic Noise Calibrator for the Small Radio Telescope (PDF)" %}} 
 
-[American Radio Relay League](http://www.arrl.org/)
+{{% resource_link "3ac53f3e-2727-4364-908b-53e7ff9607c1" "American Radio Relay League" %}}
 
 MIT course [*6.661 Receivers, Antennas, and Signals*](/courses/6-661-receivers-antennas-and-signals-spring-2003) on MIT OpenCourseWare
 
-[FCC Radio Spectrum Frequency Allocation Chart (PDF)](https://www.ntia.doc.gov/files/ntia/publications/january_2016_spectrum_wall_chart.pdf)
+{{% resource_link "01b3e587-b550-4d6f-bb74-f86c72a0cfd2" "FCC Radio Spectrum Frequency Allocation Chart (PDF)" %}}

@@ -34,9 +34,9 @@ Lab Guide
 References
 ----------
 
-Bohr, Niels. Nobel Prize Lecture, "[The Structure of the Atom](https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/)." (1922).
+Bohr, Niels. Nobel Prize Lecture, "{{% resource_link "b9f4e7df-d434-49c7-b88d-4c045f9b0d61" "The Structure of the Atom" %}}." (1922).
 
-Lamb, Willis E. Nobel Prize Lecture, "[Fine Structure of the Hydrogen Atom](https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/)." (1955).
+Lamb, Willis E. Nobel Prize Lecture, "{{% resource_link "dfdbc419-1839-47cf-9be3-0bd63a52bea1" "Fine Structure of the Hydrogen Atom" %}}." (1955).
 
 White, Harvey E. "Hydrogen Fine Structure and the Dirac Electron." In _Introduction to Atomic Spectra._ 1st ed. New York, NY: McGraw-Hill, 1934, pp. 132-138. ISBN: 9780070697201.
 
@@ -46,21 +46,21 @@ Eisberg, Robert M., and Robert Resnick. "Spin-Orbit Interaction Energy and the H
 
 Hansch, Theodor W., Arthur L. Schawlow, and George W. Series. "The Spectrum of Atomic Hydrogen." _Scientific American_ (March 1979): 94-110.
 
-Lamb, Willis E. "[Fine Structure of the Hydrogen Atom by a Microwave Method](https://journals.aps.org/pr/abstract/10.1103/PhysRev.72.241)." _The Physical Review_ 72, no. 3 (1947): 241-243.
+Lamb, Willis E. "{{% resource_link "1f7209e6-5274-4da9-85e3-a44565d599d8" "Fine Structure of the Hydrogen Atom by a Microwave Method" %}}." _The Physical Review_ 72, no. 3 (1947): 241-243.
 
-———. "[Fine Structure of the Hydrogen Atom Part I](https://journals.aps.org/pr/abstract/10.1103/PhysRev.79.549)." _The Physical Review_ 79, no. 4 (1950): 549-572.
+———. "{{% resource_link "edfcf920-21c8-448f-b09a-27023fc7a389" "Fine Structure of the Hydrogen Atom Part I" %}}." _The Physical Review_ 79, no. 4 (1950): 549-572.
 
-———. "[Fine Structure of the Hydrogen Atom Part II](https://journals.aps.org/pr/abstract/10.1103/PhysRev.81.222)." _The Physical Review_ 81, no. 3 (1951): 222-232.
+———. "{{% resource_link "82dcb5a2-17af-4ef7-9cd2-9dbfac419e8d" "Fine Structure of the Hydrogen Atom Part II" %}}." _The Physical Review_ 81, no. 3 (1951): 222-232.
 
-Hansch, Theodor W., et al. "[Precision Measurement of the Rydberg Constant by Laser Saturation Spectroscopy of the Balmer Alpha Line in Hydrogen and Deuterium](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.32.1336)." _The Physical Review Letters_ 32, no. 24 (1974): 1336-1340.
+Hansch, Theodor W., et al. "{{% resource_link "75e4df6b-e8e2-4f63-8f63-98461ab7f085" "Precision Measurement of the Rydberg Constant by Laser Saturation Spectroscopy of the Balmer Alpha Line in Hydrogen and Deuterium" %}}." _The Physical Review Letters_ 32, no. 24 (1974): 1336-1340.
 
-Mohr, Peter J. "[Lamb Shift in a Strong Coulomb Potential](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.34.1050)." _The Physical Review Letters_ 34, no. 16 (1975): 1050-1052.
+Mohr, Peter J. "{{% resource_link "7c059e4a-5554-4a75-b186-7707adf319a6" "Lamb Shift in a Strong Coulomb Potential" %}}." _The Physical Review Letters_ 34, no. 16 (1975): 1050-1052.
 
 Lee, S. A., R. Wallenstein, and T. W. Hansch. "Hydrogen 1S-2S Isotope Shift and 1S Lamb Shift Measured by Laser Spectroscopy." _The Physical Review Letters_ 24, no. 19 (1975): 1262-1266.
 
 Selected Resources
 ------------------
 
-HORIBA Scientific [Tutorial on Optics and Spectroscopy](http://www.horiba.com/us/en/scientific/products/optics-tutorial/)
+HORIBA Scientific {{% resource_link "7d4b88cd-0fdf-4f0c-8823-672f660f496b" "Tutorial on Optics and Spectroscopy" %}}
 
-Hyperphysics Tutorial on [Broadening of Spectral Lines](http://hyperphysics.phy-astr.gsu.edu/hbase/atomic/broaden.html#c1)
+Hyperphysics Tutorial on {{% resource_link "6ee3deeb-be26-43d5-99e9-524d22826b6f" "Broadening of Spectral Lines" %}}

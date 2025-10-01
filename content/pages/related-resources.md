@@ -12,32 +12,32 @@ video_metadata:
 ---
 ## Physics Resources
 
-[CRC Handbook of Chemistry and Physics (PDF)](https://edisciplinas.usp.br/pluginfile.php/4557662/mod_resource/content/1/CRC%20Handbook%20of%20Chemistry%20and%20Physics%2095th%20Edition.pdf)
+{{% resource_link "d8c0de67-5415-4ae6-b6ff-4e8168b4234b" "CRC Handbook of Chemistry and Physics (PDF)" %}}
 
-[NIST Physics Data](http://physics.nist.gov/PhysRefData/contents.html)
+{{% resource_link "1f53b2e4-b075-4c0f-b1df-60c489ac3fcb" "NIST Physics Data" %}}
 
-[Table of the Isotopes](http://www.wiley.com/legacy/products/subject/physics/toi/)
+{{% resource_link "2ba03a10-ebdf-4d70-99a3-15bbec827c18" "Table of the Isotopes" %}}
 
-[National Nuclear Data Center](https://www.nndc.bnl.gov/)
+{{% resource_link "86d57585-c357-4079-9208-267e0e0ecbd1" "National Nuclear Data Center" %}}
 
-[WebElements Periodic Table](http://www.webelements.com/)
+{{% resource_link "924fd494-08d5-4f5d-b01a-3bf2a70b5309" "WebElements Periodic Table" %}}
 
-[List of Nobel Prizes](https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics)
+{{% resource_link "6b735301-875b-48bf-9380-3687e4cd73f3" "List of Nobel Prizes" %}}
 
-[HyperPhysics Web site](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html)
+{{% resource_link "542177a2-c895-4725-912d-a01db78f7980" "HyperPhysics Web site" %}}
 
-[Overview of Particle Physics](http://particleadventure.org/)
+{{% resource_link "75af7878-fe10-4a67-8984-254d4806eb5f" "Overview of Particle Physics" %}}
 
-[Particle Data Group](http://pdg.lbl.gov/)
+{{% resource_link "a0153dd8-6df1-4cbd-acd6-c801e1db2b87" "Particle Data Group" %}}
 
-[Society of Physics Students](https://www.spsnational.org/)
+{{% resource_link "7bd48376-163c-454f-a078-d169df5ed5f3" "Society of Physics Students" %}}
 
-[American Physical Society](http://www.aps.org/)
+{{% resource_link "8baf03f4-bff1-4e3d-90cc-363f45065bc6" "American Physical Society" %}}
 
-[American Institute of Physics](http://www.aip.org/)
+{{% resource_link "947f241d-47b1-4a3c-ab73-ac90ee34b77f" "American Institute of Physics" %}}
 
 ## The Advanced Laboratory Physics Association (ALPhA)
 
-[The Advanced Laboratory Physics Association (ALPhA)](https://advlab.org/) was formed in 2007 to provide communication and interaction among the faculty and staff who are involved in advanced laboratory physics instruction at colleges and universities in the United States and the rest of the world.
+{{% resource_link "812a6e9b-553b-49cf-8460-76f567ce7e10" "The Advanced Laboratory Physics Association (ALPhA)" %}} was formed in 2007 to provide communication and interaction among the faculty and staff who are involved in advanced laboratory physics instruction at colleges and universities in the United States and the rest of the world.
 
 ALPhA’s mission is to support and enhance advanced experimental physics education. It does so by holding special conferences and workshops on advanced experimental instruction, planning dedicated sessions at national AAPT and APS meetings, generating funding, awarding professional prizes, and facilitating communication among advanced laboratory instructors, professional organizations, and industry.

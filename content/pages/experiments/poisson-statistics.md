@@ -33,7 +33,7 @@ Lab Guide
 Selected Resources
 ------------------
 
-[HyperPhysics Applied Statistics Overview](http://hyperphysics.phy-astr.gsu.edu/hbase/math/statcon.html#c1)
+{{% resource_link "309867d1-8ec7-427c-a489-cdc66e1167e3" "HyperPhysics Applied Statistics Overview" %}}
 
 {{% resource_link f6e11d0c-777c-e2a3-a5f5-0d6aaed3138c "poisson.m (M)" %}}
 

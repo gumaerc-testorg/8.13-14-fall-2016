@@ -33,4 +33,4 @@ Ferraro, J.,  K. Nakamoto, and C. Brown, _Introductory Raman Spectroscopy._ Am
 
 Weber, A. _Raman Spectroscopy of Gases and Liquids (Topics in Current Physics)._ Berlin: Springer-Verlag, 1979.
 
-Edwards, D. F. and C. Y. She, "[Laser Excited Raman Spectroscopy](https://aapt.scitation.org/doi/10.1119/1.1986860)." _American Journal of Physics_ 40 (1972): 1389-1399.
+Edwards, D. F. and C. Y. She, "{{% resource_link "76f300ae-f54c-43dc-8493-27be4f42fda4" "Laser Excited Raman Spectroscopy" %}}." _American Journal of Physics_ 40 (1972): 1389-1399.
