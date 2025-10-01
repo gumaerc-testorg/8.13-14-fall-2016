@@ -41,19 +41,19 @@ De Benedetti, S. "The Mössbauer Effect." _Scientific American_ (April 1960): 72
 
 De Benedetti, S., G. Lang, and R. Ingalls. "Electric Quadrupole Splitting and Nuclear Volume Effect in the Ion of 57Fe." _Physical Review Letters_ 6, no. 4 (1961): 60-62.
 
-Ruby, S. L., L. M. Epstein, and K. H. Sun. "[Mössbauer Effect in Ferrocyanide](https://aip.scitation.org/doi/10.1063/1.1931262)." _Review of Scientific Instruments_ 31 (1960): 580.
+Ruby, S. L., L. M. Epstein, and K. H. Sun. "{{% resource_link "7cb086ce-7db4-4730-b5cd-275bb3bbf9c4" "Mössbauer Effect in Ferrocyanide" %}}." _Review of Scientific Instruments_ 31 (1960): 580.
 
-Hofstadter, Robert. Nobel Prize Lecture, "[The Electron-scattering Method and its Application to the Structure of Nuclei and Nucleons](https://www.nobelprize.org/prizes/physics/1961/hofstadter/lecture/)." (1961).
+Hofstadter, Robert. Nobel Prize Lecture, "{{% resource_link "8d86fda8-926f-4b06-aa66-07f54b5802a4" "The Electron-scattering Method and its Application to the Structure of Nuclei and Nucleons" %}}." (1961).
 
-Mössbauer, Rudolph Ludwig. Nobel Prize Lecture, "[Recoilless Nuclear Resonance Absorption of Gamma Radiation](https://www.nobelprize.org/prizes/physics/1961/mossbauer/lecture/)." (1961).
+Mössbauer, Rudolph Ludwig. Nobel Prize Lecture, "{{% resource_link "65a3d538-12dd-4723-8403-488c1e97f8b1" "Recoilless Nuclear Resonance Absorption of Gamma Radiation" %}}." (1961).
 
-Boyle, A. J. F., and H. E. Hall. "[The Mössbauer Effect](http://iopscience.iop.org/article/10.1088/0034-4885/25/1/311/meta)." _Reports on the Progress of Physics_ 25, no. 1 (1962): 441-524.
+Boyle, A. J. F., and H. E. Hall. "{{% resource_link "2f28a369-d4f1-4a97-a008-f7ad47e0ca14" "The Mössbauer Effect" %}}." _Reports on the Progress of Physics_ 25, no. 1 (1962): 441-524.
 
 Frauenfelder, Hans. _The Mössbauer Effect: A Review with a Collection of Reprints._ New York, NY: W. A. Benjamin, Inc., 1962.
 
 Kistner, O. C., and A. W. Sunyar. "Evidence for Quadrupole Interaction of Fe57 and Influence of Chemical Binding on Nuclear Gamma-Ray Energy." _The Physical Review Letters_ 4, no. 8 (1960): 412-415. (Note: Better copy than the one in Frauenfelder.)
 
-Preston, R. S., S. S. Hanna, and J. Heberle. "[Mössbauer Effect in Metallic Iron](https://journals.aps.org/pr/abstract/10.1103/PhysRev.128.2207)." _The Physical Review_ 128, no. 5 (1962): 2207-2218.
+Preston, R. S., S. S. Hanna, and J. Heberle. "{{% resource_link "d4b024e1-9f8f-4516-9607-59a2bc895ee2" "Mössbauer Effect in Metallic Iron" %}}." _The Physical Review_ 128, no. 5 (1962): 2207-2218.
 
 King, J., ed. _Mössbauer Effect: Selected Reprints_. New York: American Institute of Physics for the American Association of Physics Teachers, 1963.
 

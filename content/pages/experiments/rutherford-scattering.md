@@ -34,9 +34,9 @@ Lab Guide
 References
 ----------
 
-Rutherford, Ernest. "[The Scattering of Alpha and Beta Particles by Matter and the Structure of the Atom](https://www.tandfonline.com/doi/abs/10.1080/14786440508637080)." _Philosophical Magazine_ 21 (1911): 669-688. Sixth Series.
+Rutherford, Ernest. "{{% resource_link "7c89189b-b050-4bbe-890d-2074fc78f703" "The Scattering of Alpha and Beta Particles by Matter and the Structure of the Atom" %}}." _Philosophical Magazine_ 21 (1911): 669-688. Sixth Series.
 
-Geiger, H. "[The Scattering of the Alpha-Particles by Matter](https://www.jstor.org/stable/92906?seq=1#page_scan_tab_contents)." _Proceedings of the Royal Society of London_ 83, no. 565 (1910): 492-504.
+Geiger, H. "{{% resource_link "15774d42-373f-41cb-8562-4c2c638b1c0d" "The Scattering of the Alpha-Particles by Matter" %}}." _Proceedings of the Royal Society of London_ 83, no. 565 (1910): 492-504.
 
 Eisberg, Robert M. "The Discovery of the Atomic Nucleus." In _Fundamentals of Modern Physics._ New York, NY: Wiley, 1963, pp. 87-109.
 
@@ -53,4 +53,4 @@ Gasiorowiez, S. "The Born Approximation." In _Quantum Physics._ 3rd ed. Hoboken,
 Selected Resources
 ------------------
 
-[Stopping Power and Range Tables for Helium Ions](http://physics.nist.gov/PhysRefData/Star/Text/ASTAR.html)
+{{% resource_link "d19b991c-f023-4991-9a71-506236985aa3" "Stopping Power and Range Tables for Helium Ions" %}}

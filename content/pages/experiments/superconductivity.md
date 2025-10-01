@@ -37,58 +37,58 @@ London, F., and H. London. "The Electromagnetic Equations of the Superconductor.
 
 Bommel, H. E. "Ultrasonic Attenuation in Superconducting Lead." _The Physical Review_ 96, no. 1 (October 1954): 79-81.
 
-Corak, W. S., B. B. Goodman, C. B. Satterwaite, and A. Wexler. "[Atomic Heats of Normal and Superconducting Vanadium](https://journals.aps.org/pr/abstract/10.1103/PhysRev.102.656)." _The Physical Review_ 102, no. 3 (May 1956): 43-48.
+Corak, W. S., B. B. Goodman, C. B. Satterwaite, and A. Wexler. "{{% resource_link "165e9d2c-5802-4c90-9c8e-2429848eab46" "Atomic Heats of Normal and Superconducting Vanadium" %}}." _The Physical Review_ 102, no. 3 (May 1956): 43-48.
 
-Bardeen, J., L. N. Cooper, and J. R. Schrieffer. "[Theory of Superconductivity](https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.1175)." _The Physical Review_ 108, no. 5 (1957): 1175-1204.
+Bardeen, J., L. N. Cooper, and J. R. Schrieffer. "{{% resource_link "08f2b641-069f-4eb6-9f20-b88640af675b" "Theory of Superconductivity" %}}." _The Physical Review_ 108, no. 5 (1957): 1175-1204.
 
-Crowe, J. W. "[Trapped-Flux Superconducting Memory](https://ieeexplore.ieee.org/document/5392695/)." Reprinted from _IBM Journal of Research and Development_ 1 (1957): 295-303.
+Crowe, J. W. "{{% resource_link "51c4850a-aaa4-44f8-a480-c896aa7ee8bc" "Trapped-Flux Superconducting Memory" %}}." Reprinted from _IBM Journal of Research and Development_ 1 (1957): 295-303.
 
 Cooper, Leon N. "Theory of Superconductivity." _American Journal of Physics_ 28, no. 2 (February 1960): 91-101.
 
 Knuzler, J. E., E. Buehler, F. S. L. Hsu, and J. H. Wernick. "Superconductivity in Nb{{< sub "3" >}}Sn at High Current Density in a Magnetic Field of 88 kgauss." _The Physical Review Letters_ 6, no.3 (1961): 89-91.
 
-Landau, Lev Davidovic. "[Nobel Prize](https://www.nobelprize.org/nobel_prizes/physics/laureates/1962/)." (1962). (For his pioneering theories for condensed matter, especially liquid helium.)
+Landau, Lev Davidovic. "{{% resource_link "cce06609-ae57-449d-9314-9f42fee8cc2e" "Nobel Prize" %}}." (1962). (For his pioneering theories for condensed matter, especially liquid helium.)
 
-Ginsberg, D. M. "[Resource Letter Scy-1 on Superconductivity](https://aapt.scitation.org/doi/10.1119/1.1970157)." _American Journal of Physics_ 32, no. 2 (February 1964): 1-5.
+Ginsberg, D. M. "{{% resource_link "40819f4d-530f-42f2-92d5-b96030a904a4" "Resource Letter Scy-1 on Superconductivity" %}}." _American Journal of Physics_ 32, no. 2 (February 1964): 1-5.
 
 American Association of Physics Teachers. _Superconductivity: Selected Reprints_. New York: Published for the American Association of Physics Teachers by the American Institute of Physics, 1964.
 
 Feynman, Richard P. "A Seminar on Superconductivity." Chapter 21 in _Feynman Lectures on Physics._ Vol. III. Reading, MA: Addison-Wesley, 1965. ISBN:9780201020106.
 
-Parks, R. D. "[Quantum Effects in Superconductors (PDF)](https://www.nature.com/scientificamerican/journal/v213/n4/pdf/scientificamerican1065-57.pdf)." _Scientific American_ 213, no. 4 (October 1965): 57-67.
+Parks, R. D. "{{% resource_link "64c381c0-356e-4c26-87a2-74ab3a1b0ff0" "Quantum Effects in Superconductors (PDF)" %}}." _Scientific American_ 213, no. 4 (October 1965): 57-67.
 
-Bardeen, John. Nobel Prize Lecture, "[Electron-Phonon Interactions and Superconductivity](https://www.nobelprize.org/prizes/physics/1972/bardeen/lecture/)." (1972).
+Bardeen, John. Nobel Prize Lecture, "{{% resource_link "e2ec5be7-6622-4fb5-9f7b-1d2d34f3926a" "Electron-Phonon Interactions and Superconductivity" %}}." (1972).
 
-Cooper, Leon N. Nobel Prize Lecture, "[Microscopic Quantum Interference Effects in the Theory of Superconductivity](https://www.nobelprize.org/prizes/physics/1972/cooper/lecture/)." (1972).
+Cooper, Leon N. Nobel Prize Lecture, "{{% resource_link "f73adfa2-ff9d-4518-b94c-cac1af8bc431" "Microscopic Quantum Interference Effects in the Theory of Superconductivity" %}}." (1972).
 
-Schrieffer, J. Robert. Nobel Prize Lecture, "[Macroscopic Quantum Phenomena from Pairing in Superconductors](https://www.nobelprize.org/prizes/physics/1972/schrieffer/lecture/)." (1972).
+Schrieffer, J. Robert. Nobel Prize Lecture, "{{% resource_link "02296c18-a99d-463a-ae40-c07973e57c8f" "Macroscopic Quantum Phenomena from Pairing in Superconductors" %}}." (1972).
 
-Bardeen, J. "[Electron-phonon Interactions and Superconductivity](https://physicstoday.scitation.org/doi/10.1063/1.3128140)." _Physics Today_ 26 (1973): 41-46.
+Bardeen, J. "{{% resource_link "e9dfb165-ec00-4375-a01c-253baa15a662" "Electron-phonon Interactions and Superconductivity" %}}." _Physics Today_ 26 (1973): 41-46.
 
-Esaki, Leo. Nobel Prize Lecture, "[Long Journey into Tunnelling](https://www.nobelprize.org/prizes/physics/1973/esaki/lecture/)." (1973).
+Esaki, Leo. Nobel Prize Lecture, "{{% resource_link "c2eb0a79-293a-401a-93c3-ef1a0fa1bfd9" "Long Journey into Tunnelling" %}}." (1973).
 
-Giaever, Ivar. Nobel Prize Lecture, "[Electron Tunneling and Superconductivity](https://www.nobelprize.org/prizes/physics/1973/giaever/lecture/)." (1973).
+Giaever, Ivar. Nobel Prize Lecture, "{{% resource_link "5524e902-cfbf-4271-8a31-575e6c31787c" "Electron Tunneling and Superconductivity" %}}." (1973).
 
-Josephson, Brian D. Nobel Prize Lecture, "[The Discovery of Tunnelling Supercurrents](https://www.nobelprize.org/prizes/physics/1973/josephson/lecture/)." (1973).
+Josephson, Brian D. Nobel Prize Lecture, "{{% resource_link "5781cd2b-8787-4075-a10a-70ca525b52be" "The Discovery of Tunnelling Supercurrents" %}}." (1973).
 
-Cooper, Leon N. "[Microscopic Quantum Interference in the Theory of Superconductivity](https://physicstoday.scitation.org/doi/10.1063/1.3128139)." _Physics Today_ 26 (July 1973): 31-39.
+Cooper, Leon N. "{{% resource_link "4c00d1e6-22f8-4dcf-aa5a-a707b3a8f4cf" "Microscopic Quantum Interference in the Theory of Superconductivity" %}}." _Physics Today_ 26 (July 1973): 31-39.
 
-Schrieffer, J. R. "[Macroscopic Quantum Phenomena from Pairing in Superconductors](https://physicstoday.scitation.org/doi/10.1063/1.3128138)." _Physics Today_ 26 (July 1973): 23-28.
+Schrieffer, J. R. "{{% resource_link "7776e3ca-0d23-40ba-9f9b-0dbd8b02cfc1" "Macroscopic Quantum Phenomena from Pairing in Superconductors" %}}." _Physics Today_ 26 (July 1973): 23-28.
 
 Tinkham, Michael. _Introduction to Superconductivity_. New York, NY: McGraw-Hill, 1975, 151 pages. ISBN: 9780070648777.
 
-Bednorz, Johannes Georg, and Karl Alexander Müller. "[Possible High T{{< sub "c" >}} Superconductivity in the Ba-La-Cu-O System](https://link.springer.com/article/10.1007%2FBF01303701)." _Condensed Matter, Zeitschrift Für Physik B._ 64, no. 2 (1986) 189-193.
+Bednorz, Johannes Georg, and Karl Alexander Müller. "{{% resource_link "4f29ffc2-fa0c-420b-8a3f-3a54ab27e438" "Possible High T{{< sub \"c\" >}} Superconductivity in the Ba-La-Cu-O System" %}}." _Condensed Matter, Zeitschrift Für Physik B._ 64, no. 2 (1986) 189-193.
 
 Josephson Effects References
 ----------------------------
 
 Josephson, B. D. "Coupled Superconductors." _Reviews of Modern Physics_ 36, no. 1 (1963): 216-220.
 
-Langenberg, D. N., D. J. Scalapino, and B. N. Taylor. "[The Josephson Effects (PDF)](https://www.nature.com/scientificamerican/journal/v214/n5/pdf/scientificamerican0566-30.pdf)." _Scientific American_ 214, no. 5 (May 1966): 30-39.
+Langenberg, D. N., D. J. Scalapino, and B. N. Taylor. "{{% resource_link "87d63084-4db1-4695-a9d8-4f49c271f2e6" "The Josephson Effects (PDF)" %}}." _Scientific American_ 214, no. 5 (May 1966): 30-39.
 
-Richards, P. L., S. Shapiro, and C. C. Grimes. "[Student Laboratory Demonstration of Flux Quantization and the Josephson Effect in Superconductors](https://aapt.scitation.org/doi/10.1119/1.1975091)." _American Journal of Physics_ 36, no. 8 (August 1968): 690-697.
+Richards, P. L., S. Shapiro, and C. C. Grimes. "{{% resource_link "cfc01775-947b-4e6f-ad64-674b186a3fa2" "Student Laboratory Demonstration of Flux Quantization and the Josephson Effect in Superconductors" %}}." _American Journal of Physics_ 36, no. 8 (August 1968): 690-697.
 
-Clarke, J. "[The Josephson Effect and e/h](https://aapt.scitation.org/doi/10.1119/1.1976556)." _American Journal of Physics_ 38, no. 9 (September 1970): 1071-1092.
+Clarke, J. "{{% resource_link "01eb4517-c5a7-4b55-a638-db159952663b" "The Josephson Effect and e/h" %}}." _American Journal of Physics_ 38, no. 9 (September 1970): 1071-1092.
 
 Scalapino, D. J. "Josephson Effects." \[1970\] In _Encyclopedia of Physics._ Edited by Rita G. Lerner and George L. Trigg. Reading, MA: Addison-Wesley, 1981, pp. 479-481. ISBN: 9780201043136.
 

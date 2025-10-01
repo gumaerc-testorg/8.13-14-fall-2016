@@ -30,7 +30,7 @@ Plots of momentum and energy vs. velocity are compared with the theoretical rela
 
 ## References
 
-Thomson, J. J. "[Cathode Rays](https://www.tandfonline.com/doi/abs/10.1080/14786449708621070)." _Philosophical Magazine and Journal of Science_ 44 (1897): 77-100.
+Thomson, J. J. "{{% resource_link "e8fec07b-be11-4bc5-a6b1-b150187cb7fe" "Cathode Rays" %}}." _Philosophical Magazine and Journal of Science_ 44 (1897): 77-100.
 
 Emilio, Segre. "Radioactive Decay." In _Experimental Nuclear Physics._ Vol. 1. New York, NY: Wiley, 1953, pp. 1-39.
 
@@ -48,9 +48,9 @@ Evans, Robley Dunglison. "Statistical Fluctuations in Nuclear Processes." Chapte
 
 ## Selected Resources
 
-[Stopping Power and Range Tables for Electrons](http://physics.nist.gov/PhysRefData/Star/Text/ESTAR.html)
+{{% resource_link "86e189fb-550c-4a39-b38a-18cef9061cca" "Stopping Power and Range Tables for Electrons" %}}
 
-Clark, J. W. "[A New Method for Obtaining a Uniform Magnetic Field](https://aip.scitation.org/doi/10.1063/1.1752353)." _Rev Sci Inst_ 9 (1938): 320-322.
+Clark, J. W. "{{% resource_link "65b98072-2d8d-4e4d-804a-d51f23d4be48" "A New Method for Obtaining a Uniform Magnetic Field" %}}." _Rev Sci Inst_ 9 (1938): 320-322.
 
 Purcell, Edward M. "Electric Conduction in a Magnetic Field: The Hall Effect." Section 6.9 in _Electricity and Magnetism_. New York, NY: McGraw Hill, 1984, pp. 241-245. ISBN: 9780070049086.
 
