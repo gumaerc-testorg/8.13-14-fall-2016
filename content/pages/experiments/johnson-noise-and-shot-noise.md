@@ -31,14 +31,14 @@ Lab Guide
 References
 ----------
 
-Johnson, John B. "[Thermal Agitation of Electricity in Conductors](https://journals.aps.org/pr/abstract/10.1103/PhysRev.32.97)." _The Physical Review_ 32, no. 1 (1928): 97-109.
+Johnson, John B. "{{% resource_link "91fff86d-50ca-4f93-af94-09be7bc7cfd9" "Thermal Agitation of Electricity in Conductors" %}}." _The Physical Review_ 32, no. 1 (1928): 97-109.
 
-Nyquist, Harry. "[Thermal Agitation of Electric Charge in Conductors](https://journals.aps.org/pr/abstract/10.1103/PhysRev.32.110)." _The Physical Review_ 32, no. 1 (1928): 110-113.
+Nyquist, Harry. "{{% resource_link "9ee48468-630b-4cca-a93e-203aba526f0a" "Thermal Agitation of Electric Charge in Conductors" %}}." _The Physical Review_ 32, no. 1 (1928): 110-113.
 
 Reif, Frederick. "Fourier Analysis of Random Fluctuations." Section 15.13-15 in _Fundamentals of Statistical and Thermal Physics._ New York, NY: McGraw Hill, 1965, pp. 582-587.
 
 Van der Ziel, Aldert. "Noise Figure," and "Friiss' Formula-Noise Measure." Sections 3.2 and 3.3 in _Noise in Measurement._ New York, NY: Wiley, 1976, pp. 30-38. ISBN: 9780471898955.
 
-Kittel, Peter. "[Comment on the Equivalent Noise Bandwidth Approximation](https://aip.scitation.org/doi/10.1063/1.1135225)." _The Review of Scientific Instruments_ 48, no. 9 (1977): 1214-1215.
+Kittel, Peter. "{{% resource_link "15466add-428d-49cb-8a05-227d19d4adbd" "Comment on the Equivalent Noise Bandwidth Approximation" %}}." _The Review of Scientific Instruments_ 48, no. 9 (1977): 1214-1215.
 
-Kittel, Peter, W. R. Hackleman, and R. J. Donnelly. "[Undergraduate Experiment on Noise Thermometry](https://aapt.scitation.org/doi/10.1119/1.11171)." _American Journal of Physics_ 46, no. 1 (1978): 94-100.
+Kittel, Peter, W. R. Hackleman, and R. J. Donnelly. "{{% resource_link "04827e66-35e0-4c8d-88f1-2ebecc8199b7" "Undergraduate Experiment on Noise Thermometry" %}}." _American Journal of Physics_ 46, no. 1 (1978): 94-100.

@@ -34,13 +34,13 @@ Lab Guide
 References
 ----------
 
-Compton, Arthur H. Nobel Prize Lecture, "[X-rays as a Branch of Optics](https://www.nobelprize.org/prizes/physics/1927/compton/lecture/)." (1927).
+Compton, Arthur H. Nobel Prize Lecture, "{{% resource_link "a0da4cd2-a3c1-4516-b695-060b122140ab" "X-rays as a Branch of Optics" %}}." (1927).
 
 ———. Abstract for "Wave-length Measurements of Scattered X-rays." _The Physical Review_ 21 (1923): 715.
 
-———. "[The Spectrum of Scattered X-Rays](https://journals.aps.org/pr/abstract/10.1103/PhysRev.22.409)." _The Physical Review_ 22, (1923): 409-413.
+———. "{{% resource_link "48151bfc-3bad-411f-826c-a66df2ffd41f" "The Spectrum of Scattered X-Rays" %}}." _The Physical Review_ 22, (1923): 409-413.
 
-———. "[A Quantum Theory of the Scattering of X-Rays by Light Elements](https://journals.aps.org/pr/abstract/10.1103/PhysRev.21.483)." _The Physical Review_ 21, (1922): 483-502.
+———. "{{% resource_link "8b233893-3a3d-4f5c-9001-a8c75e8022f4" "A Quantum Theory of the Scattering of X-Rays by Light Elements" %}}." _The Physical Review_ 21, (1922): 483-502.
 
 Hofstadter, Robert, and John A. McIntyre. "Measurement of Gamma-Ray Energies with Two Crystals in Coincidence." _The Physical Review_ 78 (1950): 619-620.
 
@@ -48,9 +48,9 @@ Lazar, N. H., R. C. Davis, and P. R. Bell. "Peak Efficiency of NaI." _Nucleonics
 
 Melissinos, Adrian C. "Compton Scattering." In _Experiments in Modern Physics._ San Diego, CA: Academic Press, 1966, pp. 253-265.
 
-Garner, R. P., and K. Verghese. "[On the Solid Angle Subtended by a Circular Disc](https://www.sciencedirect.com/science/article/pii/0029554X71901558)." _Nuclear Instruments and Methods_ 93 (1971): 163-167.
+Garner, R. P., and K. Verghese. "{{% resource_link "a7ca94e7-3405-4d96-8a39-0835cf4e41b3" "On the Solid Angle Subtended by a Circular Disc" %}}." _Nuclear Instruments and Methods_ 93 (1971): 163-167.
 
-Higbie, J. "[Undergraduate Relativity Experiment](https://eric.ed.gov/?id=EJ103134)." _American Journal of Physics_ 42 (1974): 642-644.
+Higbie, J. "{{% resource_link "5e4932d0-d21d-4484-b264-a5ab3b45461c" "Undergraduate Relativity Experiment" %}}." _American Journal of Physics_ 42 (1974): 642-644.
 
 Knoll, G. F. "Optimization of Counting Experiments." In _Radiation Detection and Measurement._ 3rd ed. New York, NY: John Wiley, 2000, pp. 92-95. ISBN: 9780471073383.
 

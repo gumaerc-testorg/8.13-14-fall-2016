@@ -42,9 +42,9 @@ Rossi, Bruno. "Interpretation of Cosmic-Ray Phenomena." _Reviews of Modern Physi
 
  ———. _Cosmic Rays._ New York, NY: McGraw-Hill, 1964.
 
-Frisch, D. H., and J. H. Smith. "[Measurement of the Relativistic Time Dilation Using mu-Mesons](https://aapt.scitation.org/doi/10.1119/1.1969508)." _American Journal of Physics_ 31 (1963): 342-355.
+Frisch, D. H., and J. H. Smith. "{{% resource_link "92b38055-e8e4-4609-b5f0-0bff8e3214f0" "Measurement of the Relativistic Time Dilation Using mu-Mesons" %}}." _American Journal of Physics_ 31 (1963): 342-355.
 
-Hall, R. E., D. A. Lind, and R. A. Ristinen. "[A Simplified Muon Lifetime Experiment for the Instructional Laboratory](https://aapt.scitation.org/doi/10.1119/1.1976002)." _American Journal of Physics_ 38 (1970): 1196-1200.
+Hall, R. E., D. A. Lind, and R. A. Ristinen. "{{% resource_link "e6697bb5-545d-4226-a1a5-01ee3b0c3f83" "A Simplified Muon Lifetime Experiment for the Instructional Laboratory" %}}." _American Journal of Physics_ 38 (1970): 1196-1200.
 
 Griffiths, David. _Introduction to Elementary Particles._ New York, NY: Wiley, 1987, chapter 1, pp. 1-51. ISBN: 9780471603863.
 
@@ -57,4 +57,4 @@ A nice comparison positon spectra from muon (three body) and pion (two body deca
 Selected Resource
 -----------------
 
-Stanford Linear Accelerator [High Energy Cosmic Rays](http://www.slac.stanford.edu/econf/C040802/lec_notes/Stanev/default.htm#top): A very nice overview of current cosmic ray research by Prof. Todor Stanev.
+Stanford Linear Accelerator {{% resource_link "75a5ba15-dd1b-4082-b18b-5bb6fa384c57" "High Energy Cosmic Rays" %}}: A very nice overview of current cosmic ray research by Prof. Todor Stanev.
